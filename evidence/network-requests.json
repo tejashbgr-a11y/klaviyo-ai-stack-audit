@@ -1,0 +1,2457 @@
+{
+  "capturedAt": "2026-10-12T03:20:29.866Z",
+  "totalRequests": 479,
+  "hits": [
+    {
+      "vendor": "Klaviyo onsite",
+      "count": 214,
+      "sample": "https://www.klaviyo.com/",
+      "resourceType": "document"
+    },
+    {
+      "vendor": "Google Tag Manager / Ads",
+      "count": 62,
+      "sample": "https://www.googletagmanager.com/gtm.js?id=GTM-M28G2G",
+      "resourceType": "script"
+    },
+    {
+      "vendor": "Optimizely",
+      "count": 7,
+      "sample": "https://cdn.optimizely.com/js/6209881250725888.js",
+      "resourceType": "script"
+    },
+    {
+      "vendor": "Dun & Bradstreet",
+      "count": 2,
+      "sample": "https://cdn-0.d41.co/tags/dnb_coretag_v6.min.js",
+      "resourceType": "script"
+    },
+    {
+      "vendor": "HubSpot",
+      "count": 5,
+      "sample": "https://js.hs-scripts.com/48163345.js",
+      "resourceType": "script"
+    },
+    {
+      "vendor": "Capterra",
+      "count": 3,
+      "sample": "https://tr.capterra.com/static/wp.js",
+      "resourceType": "script"
+    },
+    {
+      "vendor": "Navattic",
+      "count": 3,
+      "sample": "https://js.navattic.com/sdk.js?key=pkey_cm34kmsgs01h0rs3b3w9gehnq",
+      "resourceType": "script"
+    },
+    {
+      "vendor": "MNTN",
+      "count": 4,
+      "sample": "https://dx.mountain.com/spx?dxver=4.0.0&shaid=32261&tdr=&plh=https%3A%2F%2Fwww.klaviyo.com%2F&cb=78446632787436480term=value",
+      "resourceType": "script"
+    },
+    {
+      "vendor": "Transcend",
+      "count": 6,
+      "sample": "https://transcend-cdn.com/cm/f3c1005b-8270-469c-85a4-81fe6c9b70e7/airgap.js?cacheBust=1791619542161",
+      "resourceType": "script"
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://www.klaviyo.com/",
+      "method": "GET",
+      "resourceType": "document"
+    },
+    {
+      "url": "https://transcend-cdn.com/cm/f3c1005b-8270-469c-85a4-81fe6c9b70e7/airgap.js?cacheBust=1791619542161",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/ConsentManager.astro_astro_type_script_index_0_lang.DnQAcwJk.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://js.hs-scripts.com/48163345.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://js.hsforms.net/forms/embed/v2.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=9BX3wh",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://cdn.optimizely.com/js/6209881250725888.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/OnLoad.astro_astro_type_script_index_0_lang.TYLBmmoD.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/Statsig.astro_astro_type_script_index_0_lang.Da85RkAu.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/api.js?render=6Lc-vxErAAAAAKq79hQ2CEfaUCBld0hVMtRboXtB&hl=en-US",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/ComponentLoop.Dww5erXf.css",
+      "method": "GET",
+      "resourceType": "stylesheet"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/modal.dDh0PikU.css",
+      "method": "GET",
+      "resourceType": "stylesheet"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/MarketingSanityBaseLayout.CO7I_a8r.css",
+      "method": "GET",
+      "resourceType": "stylesheet"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/tabbed-content.aEji0C0E.css",
+      "method": "GET",
+      "resourceType": "stylesheet"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/useStorage.BRcSx8h4.css",
+      "method": "GET",
+      "resourceType": "stylesheet"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/VisualEditing-CaGdRP4l.B2ThP8To.css",
+      "method": "GET",
+      "resourceType": "stylesheet"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/page.CyoDswUB.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/index.astro_astro_type_script_index_0_lang.C6voGrG6.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/14dd82bd9290f44c61170a0dc03897f35a3481e1-2112x1944.png?w=1400&auto=format",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/index.astro_astro_type_script_index_1_lang.BUQbt_KY.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/0a858efcd6562e958984246085d80302cceff78c-950x1425.jpg?auto=format",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/9c5d6de9f822f854126a2d7734ae5ce0da83c9cd-174x25.svg",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/a542b367f04e0c3ceb0d2043c97630c60619728d-950x1425.jpg?auto=format",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/9f3def9ac843873d71a71aeee0bbb94c2a556b4f-152x19.svg",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/0d4e7dec6567fafb56737e829d2cbc628b582cde-950x1425.jpg?auto=format",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/a85a64e4201aaa2611514307b90416a5342a8b19-630x39.png",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/925b0329c1dc7531dc32763ec78b68eaaeab5bef-950x1425.jpg?auto=format",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/63c999966e595eb7dcda2543c15e1c1c4c8710ab-118x16.svg",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/DefaultLayout.astro_astro_type_script_index_0_lang.tbkfcAzY.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://transcend-cdn.com/cm/f3c1005b-8270-469c-85a4-81fe6c9b70e7/uiV2.js?cacheBust=1791619542161",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-M28G2G",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/ensure-airgap-stub.DSkmqtWw.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/scale-consent-ui.CSiGeqC0.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/functions.DY9MK5nF.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/attribution.BH8FUtPP.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/leadSource.C2VFicka.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/pricingSelection.qFDW5z7W.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/rolldown-runtime.BwrFqQlS.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/astro_scripts/before-hydration.js.Ct6Vb1nS.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/googleAuth.BkfrWwDG.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/previewModalOpener.CCXt4lIl.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/preload-helper.DA3tp_hu.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/ac62000564d9e1644ff305f0876bfdc8778b900e-1440x425.webp",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://www.klaviyo.com/fonts/instrument-sans-normal.woff2",
+      "method": "GET",
+      "resourceType": "font"
+    },
+    {
+      "url": "https://www.klaviyo.com/fonts/DMMono-Regular.woff2",
+      "method": "GET",
+      "resourceType": "font"
+    },
+    {
+      "url": "https://www.klaviyo.com/fonts/KlaviyoDegularVar.woff2",
+      "method": "GET",
+      "resourceType": "font"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/baeb51700705ac37ed422f09fff04a0bf9900422-668x400.webp",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/e2f45c0fc5f966c785dbcb07deb943a8881a3ed7-668x400.png",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/240f336acd9c9d6c0a85dcd83e7d8bf4aa52a242-668x400.png",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/ce5b07ba71d2f4ad7dda0ced439c6b20c954e263-669x400.webp",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/1a5c39e138782b1c78ca3b31777165ec83578759-2560x1440.png",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/ebac5b0bbbfad81c1d7784c51c525832e7700a38-262x120.webp",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/cbe11091b91c8f140bf47b6656218b19b0bd9fac-262x120.webp",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/7c3c7232e4d426b133fb7a1458ee5a6faa371eaf-262x120.webp",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/810a806fe9ab3d05f9e2bfc701aba0774b1866b5-262x120.webp",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/ea92879e13620ad4c849c1d0322334fb409ed111-262x120.webp",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/43f28b304c058503374e25edfb214b7eed123afc-262x120.webp",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/c6ed1df15110637c62d39aa02b6da60157a57abc-262x120.png",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/a25b012605e70029af45f9635faa838fe4a02937-262x120.png",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/8ccdbfd6875f2a9ea842d2a444b557a86d8b061b-158x25.svg?auto=format",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/e5b52b9391bd946c76be89c4b589308de523a908-109x36.svg?auto=format",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/9c5d6de9f822f854126a2d7734ae5ce0da83c9cd-174x25.svg?auto=format",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/c08e85faec7b475ca41456911264dbd29cd01a71-75x25.svg?auto=format",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/c02ae52e75c01ec6d9b78d75932a27ecb82adbf0-165x20.svg?auto=format",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/323a5f9b46cbe3830fb123d1c0d93370579822e6-76x25.svg?auto=format",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/ca5479952c2f55047fec0cf71fa9fd64bb0480d9-59x25.svg?auto=format",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/109a3506d4123b3039bcd2796e0871171933dcf7-47x27.svg?auto=format",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/c5f548551ca0d2f5179607aa8c60c530a474188a-62x25.svg?auto=format",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/284f8f376870cc72c3930886999d4a7032e4704d-80x25.svg?auto=format",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/172949181a096ddede13ff947dacd3e32d0d04f3-74x25.svg?auto=format",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/00c15f7564d48342f9b901fa66cf194984374562-109x25.svg?auto=format",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/32121711ef178f85417133285c054cfe64775ade-66x43.svg?auto=format",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/67875d7c5f5dba4d6c0c89acc4be2eb905ee39a7-132x25.svg?auto=format",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/ed26ead2c0e737f3b44334a892429d64df1457c8-93x25.svg?auto=format",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/5ba173ae3bbd30825c4399109bd3f3a0affcec80-1050x1050.png?auto=format",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/e157edf9d6558a367736f2bae0022274ff0eb3f8-1050x1050.png?auto=format",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/147427ce3869089acd5776db891a98ca661de2b6-1254x988.png?auto=format",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/884217bacad47c838cf5ca47bd6d9a788347ab85-1258x988.png?auto=format",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/90f38a30c4bfc6670e6cd8f405fc6dd0bcefcd37-822x820.png?auto=format",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/7ab1ac4562bde24ff5bd3eb944b8ddac70cf33ab-822x820.png?auto=format",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/028f9a064a5fa78729e627237a2f796a7fa0454a-822x820.png?auto=format",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/cookies.B90V--PX.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/_createCompounder.AOFUM0cC.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/debounce.Chx-X0ik.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/runtime.BC_fuAvr.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://transcend-cdn.com/cm/f3c1005b-8270-469c-85a4-81fe6c9b70e7/uiV2/themes/klaviyo.css",
+      "method": "GET",
+      "resourceType": "stylesheet"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/sourcesans3/v19/nwpStKy2OAdR1K-IwhWudF-R3w8aZejf5Hc.woff2",
+      "method": "GET",
+      "resourceType": "font"
+    },
+    {
+      "url": "https://static-tracking.klaviyo.com/onsite/js/fender_analytics.ef54fd55eca74.js?cb=2",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://static-tracking.klaviyo.com/onsite/js/static.b5faaa6fd9459.js?cb=2",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/runtime.8a4874bee318a.js?cb=2",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/sharedUtils.ff72a02bec02c.js?cb=2",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/vendors~fender_analytics~post_identification_sync~web_personalization~client_identity~server_side_cookies~reviews~atlas~signup_forms~telemetry~static~in_app_forms~.2eadf7fa2e4b2.js?cb=2",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://static-tracking.klaviyo.com/onsite/js/web_personalization.cbb49bee26f00.js?cb=2",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/vendors~signup_forms~telemetry~client_identity~onsite-personalization~onsite-triggering-v2~in_app_forms~.5cf63657e8324.js?cb=2",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://static-tracking.klaviyo.com/onsite/js/telemetry.da5a901b04612.js?cb=2",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/vendors~in_app_forms~signup_forms~reviews~atlas~product_recommendations.2275e937808a4.js?cb=2",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/vendors~in_app_forms~signup_forms.afb5d5a88c5fa.js?cb=2",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/default~in_app_forms~signup_forms.9155e81ad79dc.js?cb=2",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/signup_forms.9d96b40008750.js?cb=2",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://static-tracking.klaviyo.com/onsite/js/post_identification_sync.77b3a18530f39.js?cb=2",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/event_adapter.630f64fc1c685.js?cb=2",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://static-tracking.klaviyo.com/onsite/js/client_identity.2a80e3d938d9a.js?cb=2",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/isSymbol.B-uUidmB.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/index.DEWudCnu.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/client.B9oBLUtk.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/index.C9I2b92j.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/BentoCarouselSwap.CvkS7t-Q.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/optimizely.Cg6_XMuX.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://transcend-cdn.com/cm/f3c1005b-8270-469c-85a4-81fe6c9b70e7/uiV2/translations/klaviyo-global/en.json",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/ResponsiveMedia.CTWjeaC3.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://js.hs-analytics.net/analytics/1791774900000/48163345.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://js.hs-banner.com/v2/48163345/banner.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/vendors~ClientStore~~onsite-back-in-stock~Render~.da9299b91258d.js?cb=2",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/8293.aa4f4c7f73f3d.js?cb=2",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://fast.a.klaviyo.com/custom-fonts/api/v1/company-fonts/onsite?company_id=9BX3wh",
+      "method": "GET",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/react.BoqbQfAW.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/client.Db8LqfBl.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtlvjEjk2TqdwOQz/recaptcha__en.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://o19233.ingest.us.sentry.io/api/4508292743495680/envelope/?sentry_version=7&sentry_key=ca6d01884a71c29840c5420894af141a&sentry_client=sentry.javascript.astro%2F10.51.0",
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/modal-listener.CN7wOebl.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/modal-sync.DUkPecgc.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/modal.DaDmHfMX.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/optimizely.DCueEPpr.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/jsx-runtime.CPLfs2BY.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/useTranslation.Dx3d3G7Q.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/filterTags.CN52xaBP.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/ScrollingCarousel.LA5hgFcO.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/authentication.Mb1HDtBB.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/ResponsiveMedia.DzgGJOb0.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/stegaClean-YZRATV86.Cl_b6jSB.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/icon.GMCdThfC.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/useIsHydrated.CNGbfqjm.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/button.DV-WDpuC.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/dropdown-button.taLYOM04.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/dist.DT7FyMTu.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/badge.DkTaaSs7.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/anchor.Dyp7PROk.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/useOutsideClick.CHSkxh1V.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/drawer.UkBo2AEh.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/universal-menu-item.Bn4biqC0.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap",
+      "method": "GET",
+      "resourceType": "stylesheet"
+    },
+    {
+      "url": "https://static-forms.klaviyo.com/forms/api/v7/9BX3wh/full-forms",
+      "method": "GET",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/atom.JPzZEPQl.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/react-dom.cvRV1Y7X.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/request-mkt/geolocation",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://spider.australiarevival.com/i/596102f2751010ba2ee94856a2df358e.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://d1igp3oop3iho5.cloudfront.net/v2/hZ6l7BoF6VaAckbnqcYJnQ/zaius-min.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/js-sha256/0.11.1/sha256.min.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://transcend-cdn.com/cm/f3c1005b-8270-469c-85a4-81fe6c9b70e7/uiV2/themes/klaviyo.css",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/react.CwQsbqor.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/MediaCard.BVnMnWqH.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/messages.BjFdVuT5.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/useLocation.CRU5dPEp.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/rive.DM6z7hIf.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/modal.Cs426JdY.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/hubspot-form.DKm8MVQz.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/modal.CALtaFV8.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/vimeo.B-p2vd1f.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/button.bFmtO-Av.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/throttle.DogUZncU.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/deprecated-colors.7tmMxGWL.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/utils.C9OZj_lp.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/floating-ui.react.DSQoFD1S.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/vendors~ClientStore~~Render.0597ebde24a35.js?cb=2",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/default~ClientStore~~onsite-back-in-stock~Render.f4045444fa29d.js?cb=2",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/default~ClientStore~~Render~back-in-stock-dynamic-button-handler.e6331d3604900.js?cb=2",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/default~ClientStore~~Render.1009e4bfaace3.js?cb=2",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/ClientStore.c4c204deaf2cb.js?cb=2",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/button-row.BUaww50g.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/image.BjZcBuzB.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/utils.D9ugUvyj.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/patterns.B90-Jm-J.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/Vimeo.H1pvOI2a.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/tslib.es6.CjwBE1mx.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/functions.BoeQwEr8.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/rive.Br2iF7AM.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/ajax/public/site",
+      "method": "GET",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/onsite-triggering-v2.2f57e7d62195c.js?cb=2",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://cdn.optimizely.com/datafiles/WikCmiDd2MVKcqXQzya7j.json",
+      "method": "GET",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/button.BT3QFEfd.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/load-script.Cl2q8h1t.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://jumbe.zaius.com/v2/zaius.gif?vuid=vuid_711230b38d5347bd95f3e92068d&idempotence_id=aba3255e-a041-446a-b584-67f3cde2a8c3&data_source_type=sdk&data_source=javascript-sdk&data_source_version=5.3.5&tracker_id=hZ6l7BoF6VaAckbnqcYJnQ&event_type=fullstack&vdl_action=client_initialized",
+      "method": "GET",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/LoopingVideo.BZM0Xcb6.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Lc-vxErAAAAAKq79hQ2CEfaUCBld0hVMtRboXtB&co=aHR0cHM6Ly93d3cua2xhdml5by5jb206NDQz&hl=en&v=nY0xPItgwtlvjEjk2TqdwOQz&size=invisible&anchor-ms=20000&execute-ms=30000&cb=ditynvorem1i",
+      "method": "GET",
+      "resourceType": "document"
+    },
+    {
+      "url": "https://www.klaviyo.com/_astro/dist.DzZ_iwUq.js?dpl=6ac9f09741956e0008c2e9fd",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtlvjEjk2TqdwOQz/styles__ltr.css",
+      "method": "GET",
+      "resourceType": "stylesheet"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtlvjEjk2TqdwOQz/recaptcha__en.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://bite.australiarevival.com/ct?id=15474&url=https%3A%2F%2Fwww.klaviyo.com%2F&sf=0&tpi=&ch=cheq4ppc&uvid=&tsf=0&tsfmi=&tsfu=&cb=1791775221331&hl=2&op=0&ag=2074228549&rand=740266222835908106560100398116162010510799501907117212717898176186190851206290697596586952590999291106&fs=1600x1100&fst=1600x1100&np=linux%20x86_64&nv=google%20inc.&ref=&ss=1600x1100&nc=0&at=&di=W1siZWYiLDkyNTRdLFsiYWJuY2giLDEwXSxbOTYsWzAsMSwwLDAsMF1dLFstMiwiMiwxT2VnS0JRSUFBRVFnZ1NMbEtVN3dVQ3lyWUc0b0ZRWXFpS01XZ0luYTlWOUY3RlFRQmtYWlZtb3FLY2xXSzlDNjlROHBKY3RvdWE2M1ovcit4OXQ0bk95RVVmZmQ5M252L2xULDIyODAzODUyMTAiXSxbLTYsIntcIndcIjpbXCIwXCIsXCJfdXhhXCIsXCJ0cmFuc2NlbmRcIixcImRhdGFMYXllclwiLFwidWV0cVwiLFwicGl4aWVcIixcIl9haXJnYXBMb2FkRXZlbnRcIixcIl9rdnlvX21rdF9leHBfcHJvdmlkZXJcIixcIm9wdGltaXplbHlcIixcImh1YnNwb3RcIixcIkh1YlNwb3RGb3Jtc1wiLFwiaGJzcHRcIixcImhzRm9ybXNPblJlYWR5XCIsXCJodWJzcG90VHJhY2tpbmdJZFwiLFwia2xhdml5b0NvbXBhbnlJZFwiLFwiX2tsT25zaXRlXCIsXCJrbGF2aXlvXCIsXCJBc3Ryb1wiLFwiU0VOVFJZX1JFTEVBU0VcIixcIl9zZW50cnlEZWJ1Z0lkc1wiLFwiX3NlbnRyeURlYnVnSWRJZGVudGlmaWVyXCIsXCJfbGVhcm5xXCIsXCJfX2tsS2V5XCIsXCJrbGF2aXlvTW9kdWxlc09iamVjdFwiLFwiX19wYXJhZ2xpZGVcIixcIl9oc3BcIixcIl9faHNSZWZlcnJlclwiLFwiX19oc0luaXRpYWxVcmxcIixcIndlYnBhY2tDaHVua19rbGF2aXlvX29uc2l0ZV9tb2R1bGVzXCIsXCJfX2NvcmUtanNfc2hhcmVkX19cIixcIl9fU1RBVFNJR19fXCIsXCJfX19ncmVjYXB0Y2hhX2NmZ1wiLFwiZ3JlY2FwdGNoYVwiLFwiX19yZWNhcHRjaGFfYXBpXCIsXCJfX2dvb2dsZV9yZWNhcHRjaGFfY2xpZW50XCIsXCJfX1NFTlRSWV9fXCIsXCJfX3NlbnRyeV9pbnN0cnVtZW50YXRpb25faGFuZGxlcnNfX1wiLFwia2xGb3Jtc09iamVjdFwiLFwiX2hzcVwiLFwic2FuaXRpemVLZXlcIixcIl9oc3RjX2xvYWRlZFwiLFwiZ29vZ2xlX3RhZ19tYW5hZ2VyXCIsXCJwb3N0c2NyaWJlXCIsXCJnb29nbGVfdGFnX21hbmFnZXJfZXh0ZXJuYWxcIixcImdvb2dsZV90YWdfZGF0YVwiLFwidGhldXJsXCIsXCJ6YWl1c1wiLFwiX19rbEZvcm1FbnZpcm9ubWVudFwiLFwic2hhMjU2XCIsXCJzaGEyMjRcIl0sXCJuXCI6W10sXCJkXCI6W119Il0sWy0xMywiWzMyOTI3Njc5MDAsZnVuY3Rpb24oLi4ubil7bGV0IGk9dGhpcyxhPWkmJnModHIsaSl8fHIsYz0oKT0%2Be2xldCB5PXEobyxpLG4pO3JldHVybiBWaSh5KSx5fTtpZih6KCkpcmV0dXJuIGMoKTtsZXRbcCxsXT1uLHU9bi5sZW5ndGg8PTF8fEcoS18sbCl8fGEmJiFZbihhLFBlKE0oQl8seT0%2BYCR7eX1bbmFtZT0ke0hlKGAke2x9YCl9XWApLFwiLFwiKSksZj1uZXcgUSh7dHlwZTp1P1lyOnQsdXJsOnB9KSxkPSgpPT57bGV0IHk9YCR7Zi5zZXJpYWxpemUoKX1gO3JldHVybmAke3B9YCE9PXkmJihuWzBdPXkpLGMoKX07aWYodSYmU24mJmV0KCkmJm1yKGYpLCFwciYmdXx8aWUoZikpcmV0dXJuIGQoKTt0aHJvdyBmLm11dGF0b3I9ZCx4ZShmKSxVdChcIm9wZW4oKVwiLHApfV0iXSxbLTI4LCJlbi1VU0Bwb3NpeCJdLFstMzgsImksLTEsLTEsMCwwLDIsMCwyNSwyOSwxOTksLTEsMCw1NDAsNTQwLDEzMjcsMTMyNyJdLFstNTAsIi0iXSxbLTUzLCIwMDEiXSxbLTYzLCItIl0sWy02OCwiLSJdLFstNzAsIi0iXSxbLTc0LCIwLDAiXSxbLTgsIi0iXSxbLTM1LCJbMTc5MTc3NTIyMTI3MSwwXSJdLFstNjIsIjgwIl0sWy03MSwiYTAxMDAxMDExMDAxMDAxMDEwMDAxMDAwMDExMTExMDEwMDAwMTAiXSxbLTEyLCJudWxsIl0sWy0xNSwiLSJdLFstMjksIi0iXSxbLTMwLCJbXCJ2XCIsMF0iXSxbLTM0LCItIl0sWy00NiwiMCJdLFstNTksImRlbmllZCJdLFstNjcsIi0iXSxbMTIsIntcImN0eFwiOlwid2ViZ2xcIixcInZcIjpcImdvb2dsZSBpbmMuIChnb29nbGUpXCIsXCJyXCI6XCJhbmdsZSAoZ29vZ2xlLCB2dWxrYW4gMS4zLjAgKHN3aWZ0c2hhZGVyIGRldmljZSAoc3ViemVybykgKDB4MDAwMGMwZGUpKSwgc3dpZnRzaGFkZXIgZHJpdmVyKVwiLFwic2x2XCI6XCJ3ZWJnbCBnbHNsIGVzIDEuMCAob3BlbmdsIGVzIGdsc2wgZXMgMS4wIGNocm9taXVtKVwiLFwiZ3ZlclwiOlwid2ViZ2wgMS4wIChvcGVuZ2wgZXMgMi4wIGNocm9taXVtKVwiLFwiZ3ZlblwiOlwid2Via2l0XCIsXCJiZW5cIjo3LFwid2dsXCI6MSxcImdyZW5cIjpcIndlYmtpdCB3ZWJnbFwiLFwic2VmXCI6MTkzMDgyMDI3OSxcInNlY1wiOlwiXCJ9Il0sWy00LCItIl0sWy0zMywiLSJdLFstMzcsIi0iXSxbLTQ4LCJbXCItXCIsXCItXCIsXCItXCIsXCIyMzA2NDM1NDg5XCIsXCIyMzA2NDM1NDg5XCJdIl0sWy01MiwiLSJdLFstNjAsIi0iXSxbLTY2LCJnZW9uLGNoc3QsY3JlZCxzY2NrLG9ub24sdHJvcixwdWV0LHNocmwsY2hjaCxjb3JlLGNoY3ksZGVjaCx1c2IsY2h0YSxwdXRlLHNoZ2UsZGVhbCxydW9uLGNobmssY2hycyxvdGxzLHBhbnQsY2h1YSxjaGVsLGNoY3QsYXVheSxjYXJhLGxhb3IscHJjZSxhY2VyLGNob24saWRvbixwcm9uLGlucnQsY2hodCxjYW9sLGxvdHMsY2hybSxtaWRpLGNob24seHJuZyxjbGFkLGdhYWQsZGlyZSxrZWFwLGpvdXAsY2h0aCxjaG9uLGJyY3MsZW5pYSxneXBlLHNlYWwsY2h0dCxjaGxlLHdpbnQsdW5hZCxjaHByLGNobWUsY2g2NCxhdG5nLGZ1ZW4saWRldCxwcm9uLGhpZCxzdWVyLGNoc3Msc3RzcyxzeWhyLGNocnksY2h0aCxwaXJlLG1hZXIsY2x0ZSxtaW5lIl0sWy00MSwiLSJdLFstNDUsIjYyMCwwLDAsMCwwLDU2Miw3NjEsMCw2NDgsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwIl0sWy01OCwiLSJdLFstNjEsIntcIndnc2xcIjpcIjQ7cGFja2VkXzR4OF9pbnRlZ2VyX2RvdF9wcm9kdWN0O3VucmVzdHJpY3RlZF9wb2ludGVyX3BhcmFtZXRlcnM7cG9pbnRlcl9jb21wb3NpdGVfYWNjZXNzO3JlYWRvbmx5X2FuZF9yZWFkd3JpdGVfc3RvcmFnZV90ZXh0dXJlcztcIixcInBjZlwiOlwiYmdyYTh1bm9ybVwifSJdLFstMSwiLSJdLFstMTQsIi0iXSxbLTIyLCJbXCJuXCIsXCJuXCJdIl0sWy0yNCwiW10iXSxbLTMyLCIwIl0sWy00NywiVVRDLGVuLVVTLGxhdG4sZ3JlZ29yeSJdLFstNjQsIlswLFwibWFjT1NcIixbe1wiYlwiOlwiQ2hyb21pdW1cIixcInZcIjpcIjE0MFwifSx7XCJiXCI6XCJOb3Q9QT9CcmFuZFwiLFwidlwiOlwiMjRcIn0se1wiYlwiOlwiSGVhZGxlc3NDaHJvbWVcIixcInZcIjpcIjE0MFwifV1dIl0sWy02OSwiTGludXggeDg2XzY0fEdvb2dsZSBJbmMufDh8NHxtYWNPU3wwIl0sWy0zLCJbXSJdLFstMTcsIjQiXSxbLTE5LCJbMCwwLDAsMCwwLDAsMS41LDI0LDI0LFwiLVwiLDE2MDAsMTEwMCwxNjAwLDExMDAsMTYwMCwxMTAwLDE2MDAsMTEwMCwwLDAsMCwwLFwiLVwiLFwiLVwiLDE2MDAsMTEwMCwwXSJdLFstMzksIltcIjIwMDMwMTA3XCIsMCxcIkdlY2tvXCIsXCJOZXRzY2FwZVwiLFwiTW96aWxsYVwiLG51bGwsbnVsbCx0cnVlLDgsZmFsc2UsbnVsbCwwLGZhbHNlLHRydWUsbnVsbCwwLHRydWUsdHJ1ZSxmYWxzZSx0cnVlLG51bGxdIl0sWy01MSwiLSJdLFstNTUsIjEiXSxbLTY1LCItIl0sWy03MywiRW10MUtEbzlPeVprSURvbEtDY3RhVHdnTFhRVmF4TjdlM29oTVNFVmEyazVPeXd2SURGMEZXczdmSDRWYTJrcUppUTVKaWNzSnoxa1BEc2xkQlZyWmhZb09qMDdKbVlnSnkwc01XY05EQjQ4TFFvblBHY2pPbll0T1NWMGZ5Z3FjQzk1Y0g1OWVIQjhmeXg1ZVhseEtuc3NjQzh0Rld0cEtpWWtPU1luTENjOVpDd3hPU1k3UFhRVmF5MHNMeWc4SlQwVmEyazdMQ2N0TERzc08yUThPMnRsYTNVb09qMDdKbVFnT2lVb0p5MXBQQ0F0ZEJWcmV5RXpmeTRZRld0cE9Uc3NMeUF4ZEJWck8zNFZhMmtxSmlRNUppY3NKejFrUERzbGRCVnJaaFlvT2owN0ptWWdKeTBzTVdjS2NBQjdLM0I3STJjak9uWXRPU1YwZnlncWNDOTVjSDU5ZUhCOGZ5eDVlWGx4S25zc2NDOHRGV3RwS2lZa09TWW5MQ2M5WkN3eE9TWTdQWFFWYXh3bklEOHNPem9vSlFFc0tDMHNPeFZyYVRzc0p5MHNheFE9Il0sWy0xMCwiLSJdLFstMjcsIlswLDkuOCwwLFwiNGdcIixudWxsLFwiLVwiXSJdLFstMzEsInRydWUiXSxbLTM2LCJbXCJcIixcIlwiXSJdLFstNDIsIjg4MzM5OTAxNiJdLFstNDQsIjAsMCwwLDUiXSxbLTU2LCJsYW5kc2NhcGUtcHJpbWFyeSJdLFstNzUsInt9LnNvbWVGdW5jIGlzIG5vdCBhIGZ1bmN0aW9uIl0sWy0xMSwie1widFwiOlwiXCIsXCJtXCI6W1wiZGVzY3JpcHRpb25cIixcIm9nOnRpdGxlXCIsXCJvZzpkZXNjcmlwdGlvblwiLFwidHdpdHRlcjp0aXRsZVwiLFwidHdpdHRlcjpkZXNjcmlwdGlvblwiXX0iXSxbLTIwLCItIl0sWy0yMSwiLSJdLFstMjUsIi0iXSxbLTksIisiXSxbLTE2LCIwIl0sWy01NCwie1wiaFwiOltcIl8zXCIsXCIzMjk5OTEzNjlcIl0sXCJkXCI6W10sXCJiXCI6W1wiXzFcIixcIjExNzkyMTg5MTNcIl0sXCJzXCI6MX0iXSxbImJuY2giLDg0XSxbLTUsIi0iXSxbLTcsIi0iXSxbLTE4LCJbMCwwLDAsMV0iXSxbLTIzLCIrIl0sWy0yNiwie1widGpoc1wiOjEwMDAwMDAwLFwidWpoc1wiOjEwMDAwMDAwLFwiamhzbFwiOjM3NjAwMDAwMDB9Il0sWy00MCwiMzMiXSxbLTQzLCIwMDAwMDAwMTAwMDAwMDAwMDAxMTEwMTEwMDEwMTEwMTAwMDAwMTAxMTAxMDAwIl0sWy00OSwiLSJdLFstNTcsIldFMFplRXRMV0VBWGZWd1pFVkZOVFVsS0F4WVdTa2xRWFZ4TEYxaE1TazFMV0ZWUVdFdGNUMUJQV0ZVWFdsWlVGbEFXREFBUENBa0xYd3NPREFnSkNBbGJXQXRjWEFBTkFRd1BXQXRkWHdvTUFWd1hVMG9EQ0FNUEFBc0JBUkFWV0UwWlN4a1JVVTFOU1VvREZoWktTVkJkWEVzWFdFeEtUVXRZVlZCWVMxeFBVRTlZVlJkYVZsUVdVQllNQUE4SUNRdGZDdzRNQ0FrSUNWdFlDMXhjQUEwQkRBOVlDMTFmQ2d3QlhCZFRTZ01JQXc0TUNBRUJFQlZZVFJsUlRVMUpTZ01XRmtwSlVGMWNTeGRZVEVwTlMxaFZVRmhMWEU5UVQxaFZGMXBXVkJaUUZnd0FEd2dKQzE4TERnd0lDUWdKVzFnTFhGd0FEUUVNRDFnTFhWOEtEQT09Il0sWy03MiwiRXhVPSJdLFstNzYsIi0iXSxbImRkYiIsIjAsMywwLDAsMCwxLDAsMCwwLDAsMSwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMSwwLDAsMCwwLDAsMCwwLDAsMCwwLDEsMiwxOCwwLDAsMCwwLDAsMCwxLDAsMCwwLDAsMCwwLDAsMCwxLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwyLDAsMCwwIl0sWyJjYiIsIjAsMCwwLDAsMCwwLDAsMCwwLDEsMCwwLDcsMCwyLDAsMCwwLDAsMCwwLDAsMCwxLDAsMCwxLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMSwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMiwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMSwwLDAsMCwwIl1d&dep=0&pre=0&sdd=&cri=9HNcL1dybN&pto=1399&ver=67&gac=-&mei=&ap=&fe=1&duid=1.1791775221.fNhcu1lwmmsmvesY&suid=1.1791775221.BLwvqmeafxDfe9ZV&tuid=1.1791775221.Z6BRJJdybtMSNkIv&sid=1.1791775221334.9da8JLPwABSeuPdk&fbc=-&gtm=WyJPbmVUcnVzdENvdW50cnkiXQ%3D%3D&it=196%2C817%2C122&fbcl=-&gacl=-&gacsd=-&rtic=-&rtict=-&bgc=-&spa=1&urid=0&sck=-&io=bHE2Oy1oYDY6",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://api.zaius.com/v2/zaius.gif?resolution=2400x1650&color_depth=24-bit&viewport=2400x1650&source=direct&medium=none&java=0&language=en-us%40posix&character_set=utf-8&domain_lookup_time=25&server_connect_time=29&server_response_time=132&page_download_time=67&hostname=www.klaviyo.com&page=%2F&title=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&u=590033892&vuid=d881de2c-c77d-4a5d-927a-9cb4e57e371e&new_user=1&zaius_js_version=2.5.1&tracker_id=hZ6l7BoF6VaAckbnqcYJnQ&event_type=pageview&data_source_type=sdk&data_source=JavaScript&data_source_instance=www.klaviyo.com&data_source_version=2.5.1&idempotence_id=70eadba7-b243-4939-9d88-0c41bf53cbd5",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://player.vimeo.com/api/player.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=nY0xPItgwtlvjEjk2TqdwOQz",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+      "method": "GET",
+      "resourceType": "font"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf",
+      "method": "GET",
+      "resourceType": "font"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtlvjEjk2TqdwOQz/recaptcha__en.js",
+      "method": "GET",
+      "resourceType": "other"
+    },
+    {
+      "url": "https://vimeo.com/api/oembed.json?url=https%3A%2F%2Fvimeo.com%2F1223678585%2F9ff7faa181&url=https%3A%2F%2Fvimeo.com%2F1223678585%2F9ff7faa181&autoplay=true&muted=true&loop=true&playsinline=true&controls=false&autopause=false&byline=false&portrait=false&title=false&keyboard=false&responsive=false",
+      "method": "GET",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://player.vimeo.com/video/1223678585?title=0&byline=0&portrait=0&keyboard=0&muted=1&autoplay=1&autopause=0&controls=0&loop=1&app_id=122963",
+      "method": "GET",
+      "resourceType": "document"
+    },
+    {
+      "url": "https://f.vimeocdn.com/p/4.46.126/js/player.module.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://f.vimeocdn.com/p/4.46.126/js/vendor.module.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://f.vimeocdn.com/p/4.46.126/css/player.css",
+      "method": "GET",
+      "resourceType": "stylesheet"
+    },
+    {
+      "url": "https://player.vimeo.com/cdn-cgi/challenge-platform/scripts/precursor/main.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://player.vimeo.com/cdn-cgi/challenge-platform/h/g/scripts/precursor/4df4a60fa397/main.js?",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://player.vimeo.com/cdn-cgi/challenge-platform/h/g/precursor/4df4a60fa397/0.11564171852673799:1791767114:2R-FV6i0mSth2_DlhhfJ_0lI_Rmw62S7lNRyHsfOTzQ/a492f7de9ce1a1ee",
+      "method": "POST",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://bat.bing.com/bat.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=AW-607008856&cx=c&gtm=4e6a72h1",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.googleadservices.com/pagead/conversion/607008856/?label=EUbhCLyAj7oZENjwuKEC&guid=ON&script=0",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://bite.australiarevival.com/tracker/tc_imp.gif?e=37dfbd8ee84e001263efc032ef45889c9225c24f567d43d6da1908be6245cad7bd70a976750ef80ed89373bfe70e9c20c1e53e8d5f14896a2317070100b1eabfd72e30d69183052e361be26a3241de6fcd68d5556503779557515f61565b92ef6d4860f132b736da4df7c23ef0006af85f2d7d03c641b506ec9dc5db23b02d07e17fc8a94b6b86162d513407cc945333a02cebf4dcf13010f710d3eb68f724c46bd448f85473f77341a6571e0f3cb2176af383ac8936bc6d9265cc7be34f711cb8d2587e226a28c525d5c87ea5564ea1d7ae274e7d3cd5803e53d3c203437f5b70020ab7ed7d362c45fde54c7a8bb5f62882fc4930486db9acb79ccc74bd89db5ebe5f95513967ccea9cb1f1629489b669c13a0cd3ab9a291814e57d7df6c5066eecdaf2749314ba04ee9612d0178f8b3f87322a89de609f7bcb8eb9b5d6a6bc0779a972a9a9e63b0561aed9628ca600e614055e894f5086d0d48681fdc568881de1defbc878ae24287ac46f28d4ccc10067c0ef77ac11f7945dd62fef3d0c0b55c676e74dddcda96cee952ac65ca9cfd0d873855c477bf653181326097287e223b146f5c28c23a9884efbd0749acda9b03d8bb0c6516d7984ff75429bef491542baacf23ab630f1e95ceafc2db37fbc309456c815d7a83cc70626e4ae9265233e60032a0f4016aae18c6ace03b7454e4b35f9b44fdd90040dfeb8dcbaa06dc2ede7fe9af9aff1484920fa4786b551728243651fd07f5e6d71f573a86a04c1edc57f9763d12597b62dceb011847c0e223c1f7f1699dcf9dd3c7b49871e4591cfc4bdb0c83e198ce4f824c2dd7969d9cc133b60f896de5323b5269b09e142b07a9a4e9c954ebbe774b7d8e1c0845521aab96f718864a793b1ac1f9d6b33130796695d22cde419ceb1419bcfd3bc02988eed551c2b55fa78f251b85fa0807797354a20463d787de35b90eb3527db15baf3bc679db22ef22f0ae903603edda8871850851ce99c529e5e230a4ba02978d3eb861494046fdedc4cffbd88a8d91d844f5f2309e02370108e9a0f5cbf20f5be9c7c9dd9ed124f3cff3f621a0ecc1755fa8bae4553826871cf85d8029a85a8c5583ea86ff8543f14de44207fd0cc161ec885a1c4e8b20ff363f03bc72fc0931095aeea213fef8145de8cfcf69db5c4c76a07d0ba3947c36c80008f5af3f839fa8c948263b8cdc7a7b83439cba6a5ab01d35e9a0f47316d0bb9c87b698130f841c7cd63ff4074f0674c9f6ee4d22a64bd302f4e12c0a1c43dc39e027928193cd1c1dea492388e56fcf5647ad5da475c5e03796d6aa57ae0ae6b4fbde2828fb1e4f9b5acd728aaf58a1f2a2e473620337f419a4d1051a3f7aeac26b9982852ded415eac2149ec29c97cbb1e50cbf4b8a5fe236f88bf3959f286adbcc99e438394b218fcacb83605ef2d60b254bf43cef32630ce15fac70da1576cb4f53c59aa7ffd19082f2d138d844cfd93ad4e7bcd377fa92ed2a05e5d0f963f274e490d7542598802991d97375&cri=9HNcL1dybN&ts=429&cb=1791775221760",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "blob:https://www.klaviyo.com/c1976735-87c4-4cd4-b534-b2f394192fd2",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://f.vimeocdn.com/js_opt/modules/utils/vuid.min.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://i.vimeocdn.com/video/2196954405-410c111d63a696670ba7fdfc7a1114957158fabf0dd930a972af6851dfa5e49e-d?mw=1000&mh=920&q=70",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://arclight.vimeo.com/add/player-stats?beacon=1&session-id=5d846b0887cf2f63baca2796d6a503d9a123c2d31791775221",
+      "method": "POST",
+      "resourceType": "ping"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/607008856/?label=EUbhCLyAj7oZENjwuKEC&guid=ON&script=0&ct_cookie_present=false&random=695726013&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCPTasQII4uqxAgjo7rECCJLrsQIIyeOxAgiX1LECCMnbsQIIzeaxAgim3bECCLDesQIIgNuxAgjN4bECCMvhsQI&cerd=ChSDsL4t1dW-Lcjsvi2T7r4tnem3OA&fsk=ChAI8Oes1gYQhOTtsLrDkd5MEiwA8j44-wyMjW47x_aLbM8Ryo6wlSYLTcMXGy7_FQSLuNWerxjkkb627Kpx-hoCkpA&pscrd=IhMIqeb07MKzlwMVION-CR35EBajOhhodHRwczovL3d3dy5rbGF2aXlvLmNvbS96DAgJYggIABAAGAAgAA",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://arclight.vimeo.com/add/player-stats?beacon=1&session-id=5d846b0887cf2f63baca2796d6a503d9a123c2d31791775221",
+      "method": "POST",
+      "resourceType": "ping"
+    },
+    {
+      "url": "https://vod-adaptive-ak.vimeocdn.com/exp=1791778821~acl=%2Fdcfd4c8c-7eb8-4696-b9af-cb8f0591d750%2Fpsid%3D5d846b0887cf2f63baca2796d6a503d9a123c2d31791775221%2F%2A~hmac=94c4c28bcea1838d3185ebc41aae65cfce2875898c36c38afb2b57c5e32d3de5/dcfd4c8c-7eb8-4696-b9af-cb8f0591d750/psid=5d846b0887cf2f63baca2796d6a503d9a123c2d31791775221/v2/playlist/av/primary/prot/cXNyPTE/playlist.json?omit=av1-hevc&pathsig=8c953e4f~aaIYx5Hf1AcnHMtoaTCpryFlsCJrvv_qtpCy7aNBlhs&qsr=1&r=dXM%3D&rh=ehi4P",
+      "method": "GET",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://i.vimeocdn.com/video/2196954405-410c111d63a696670ba7fdfc7a1114957158fabf0dd930a972af6851dfa5e49e-d?mw=80&q=85",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://vimeo.com/ablincoln/vuid?pid=5d846b0887cf2f63baca2796d6a503d9a123c2d31791775221",
+      "method": "POST",
+      "resourceType": "ping"
+    },
+    {
+      "url": "https://vimeo.com/flarepoint/orion/v3/identity/settings",
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://bat.bing.com/p/action/73007428.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://bat.bing.com/actionp/0?ti=73007428&Ver=2&mid=a267673e-dad9-4fd6-9cf5-820663a8dfac&bo=1&evt=consent&src=default&cdb=AQAS&asc=G",
+      "method": "POST",
+      "resourceType": "ping"
+    },
+    {
+      "url": "https://bat.bing.com/action/0?ti=73007428&Ver=2&mid=a267673e-dad9-4fd6-9cf5-820663a8dfac&bo=2&sid=dbb5ea60c5eb11f1aa05bf5057da5c95&vid=dbb5ef60c5eb11f18bb41d08ed455a26&vids=1&msclkid=N&pi=0&lg=en-US@posix&sw=1600&sh=1100&sc=24&nwd=1&tl=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&p=https%3A%2F%2Fwww.klaviyo.com%2F&r=&lt=741&evt=pageLoad&sv=2&asc=G&cdb=AQAS&rn=426065",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://bat.bing.com/action/0?ti=73007428&Ver=2&mid=a267673e-dad9-4fd6-9cf5-820663a8dfac&bo=3&sid=dbb5ea60c5eb11f1aa05bf5057da5c95&vid=dbb5ef60c5eb11f18bb41d08ed455a26&vids=0&msclkid=N&ec=CHEQ&el=Invalid_Users&ev=0&ea=Invalid_Users&en=Y&p=https%3A%2F%2Fwww.klaviyo.com%2F&sw=1600&sh=1100&sc=24&nwd=1&evt=custom&asc=G&cdb=AQAS&rn=340321",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://www.google.com/pagead/1p-conversion/607008856/?label=EUbhCLyAj7oZENjwuKEC&guid=ON&script=0&ct_cookie_present=false&random=695726013&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCPTasQII4uqxAgjo7rECCJLrsQIIyeOxAgiX1LECCMnbsQIIzeaxAgim3bECCLDesQIIgNuxAgjN4bECCMvhsQI&cerd=ChSDsL4t1dW-Lcjsvi2T7r4tnem3OA&fsk=ChAI8Oes1gYQhOTtsLrDkd5MEiwA8j44-wyMjW47x_aLbM8Ryo6wlSYLTcMXGy7_FQSLuNWerxjkkb627Kpx-hoCkpA&pscrd=IhMIqeb07MKzlwMVION-CR35EBajOhhodHRwczovL3d3dy5rbGF2aXlvLmNvbS96DAgJYggIABAAGAAgAA&is_vtc=1&cid=CAQS0wEAQM4h3LvkpI3UONPzFy4b2HnRtrkAIrT-7-skHpp1r4D_0P50-iG2hd_wl3xtQ7sGXpooSA1SQXA9qN-y4NulGgRAuYv7Wtymg2A48zBolxCHSt5MecsHjH0Y8C-slQjscu_QsNm9taJgLUQsnzaF3OXy_x46X3sEZV3ILhIMAzv00YqsiXVjQIDo2nFnjhW305MZFAFF1PRC65Vz7kC_vw9SkLM5HrH_JG_G-1sYdWmyoPtCZqGDGnshZHPSuwPek7TRAJaLyWGbbHiFwQ-1VbAE&random=441479706",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/607008856/?random=1791775221962&cv=11&fst=1791775221962&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a72h1v9175041378za208zb72424615zd72424615xecxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969&u_w=1600&u_h=1100&url=https%3A%2F%2Fwww.klaviyo.com%2F&rcb=6&frm=0&tiba=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1750846360.1791775222&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/607008856/?random=1791775221962&cv=11&fst=1791775221962&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a72h1v9175041378za208zb72424615zd72424615xecxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969&u_w=1600&u_h=1100&url=https%3A%2F%2Fwww.klaviyo.com%2F&rcb=6&frm=0&tiba=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1750846360.1791775222&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.googleadservices.com/pagead/conversion/607008856/?random=1791775221998&cv=11&fst=1791775221998&fmt=7&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6a72h1v9175041378za200zb72424615zd72424615xecxf1&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969&u_w=1600&u_h=1100&url=https%3A%2F%2Fwww.klaviyo.com%2F&rcb=6&label=EUbhCLyAj7oZENjwuKEC&capi=1&gtm_ee=1&frm=0&tiba=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1750846360.1791775222&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&ec_mode=a&oid=GG_472734832.1791775222&oidsrc=3&ecsid2=520717874.1791775222&_tu=ABA&gcl_ctr=1~0~0~0&data=event%3Dconversion&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=6&frm=0&apvc=1&auid=1750846360.1791775222&dt=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&tid=AW-607008856&en=page_view&dl=https%3A%2F%2Fwww.klaviyo.com%2F&scrsrc=www.googletagmanager.com&rnd=1849783647.1791775222&navt=n&npa=0&gtm=45be6a72h1v9175041378za208zb72424615zd72424615xecxf1&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969&tft=1791775222008&tfd=2075&tids=AW-607008856&fmt=8",
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1750846360.1791775222&gtm=45be6a72h1v9175041378za208zb72424615zd72424615xecxf1&fmt=8",
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.googleadservices.com/ccm/conversion/607008856/?random=1791775221998&cv=11&fst=1791775221998&fmt=3&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6a72h1v9175041378za200zb72424615zd72424615xecxf1&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969&u_w=1600&u_h=1100&url=https%3A%2F%2Fwww.klaviyo.com%2F&rcb=6&label=EUbhCLyAj7oZENjwuKEC&capi=1&gtm_ee=1&frm=0&tiba=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1750846360.1791775222&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&ec_mode=a&oid=GG_472734832.1791775222&oidsrc=3&ecsid2=520717874.1791775222&_tu=ABA&gcl_ctr=1~0~0~0&data=event%3Dconversion&category=acrcp_v1_512&em=tv.1&emd=tvd.1",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://arclight.vimeo.com/add/player-stats?beacon=1&session-id=5d846b0887cf2f63baca2796d6a503d9a123c2d31791775221",
+      "method": "POST",
+      "resourceType": "ping"
+    },
+    {
+      "url": "https://arclight.vimeo.com/add/player-stats?beacon=1&session-id=5d846b0887cf2f63baca2796d6a503d9a123c2d31791775221",
+      "method": "POST",
+      "resourceType": "ping"
+    },
+    {
+      "url": "https://arclight.vimeo.com/add/player-stats?beacon=1&session-id=5d846b0887cf2f63baca2796d6a503d9a123c2d31791775221",
+      "method": "POST",
+      "resourceType": "ping"
+    },
+    {
+      "url": "https://vod-adaptive-ak.vimeocdn.com/exp=1791778821~acl=%2Fdcfd4c8c-7eb8-4696-b9af-cb8f0591d750%2Fpsid%3D5d846b0887cf2f63baca2796d6a503d9a123c2d31791775221%2F%2A~hmac=94c4c28bcea1838d3185ebc41aae65cfce2875898c36c38afb2b57c5e32d3de5/dcfd4c8c-7eb8-4696-b9af-cb8f0591d750/psid=5d846b0887cf2f63baca2796d6a503d9a123c2d31791775221/v2/range/prot/cmFuZ2U9ODcyLTcwMjkzNw/avf/6a8c51f0-7472-41de-852b-e062cbef65b6.mp4?pathsig=8c953e4f~F7_F50IJ8NVHQ24dR1dDctrHM6JJz58I1PIRAOBfEvE&r=dXMtd2VzdDE%3D&range=872-702937",
+      "method": "GET",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://www.google.com/pagead/1p-user-list/607008856/?random=1791775221962&cv=11&fst=1791774000000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a72h1v9175041378za208zb72424615zd72424615xecxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969&u_w=1600&u_h=1100&url=https%3A%2F%2Fwww.klaviyo.com%2F&rcb=6&frm=0&tiba=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1750846360.1791775222&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4QEAQM4h3AcJm8GREgLaFBbiBRtq1cJvLjh-lHckngKmJjkk-AqCkno6O0PNY0WOOMKfxqKdKXfb_YXBNNCmeu0uaFyoDVZBEFxbcNDhZENDRHmhN_pPPbZCJV3viQZgMlHRnRDFLMmoXEHL4vDvgsyINUcceTYUaCKhAyIVYgqfZcm0X7kB6Xn8ObvVXL32nAIhi-Uk6aklCWJK-CdeaZJ4oy98pBVD_JZgwCl3TBQ4ZACD6ZwSN-GeKyB9e_SCKe9E0E4xcJpKqp52lT6KtNliDI-tAkO3DWhs5XioZ4guuuw&random=3897546066&rmt_tld=0&ipr=y",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/607008856/?random=224325443&cv=11&fst=1791775221998&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6a72h1v9175041378za200zb72424615zd72424615xecxf1&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969&u_w=1600&u_h=1100&url=https%3A%2F%2Fwww.klaviyo.com%2F&rcb=6&label=EUbhCLyAj7oZENjwuKEC&capi=1&gtm_ee=1&frm=0&tiba=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1750846360.1791775222&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&ec_mode=a&oidsrc=3&ecsid2=520717874.1791775222&_tu=ABA&gcl_ctr=1~0~0~0&data=event%3Dconversion&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkYKEAjw56zWBhDoppmW5dTSr3sSMgDKdSDfL6Pdgak93_O1GeuD24Ljd1RL8cPgbowzMdcaRsy_zLvsvieDFDj0T0qqnQi18P8HAQ&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCPTasQII4uqxAgjo7rECCJLrsQIIyeOxAgiX1LECCMnbsQIIzeaxAgim3bECCLDesQIIgNuxAgjN4bECSjB0cmlnZ2VyLCBub3QtZXZlbnQtc291cmNlLCBub3QtbmF2aWdhdGlvbi1zb3VyY2VaAwoBAWIDCgED&cerd=CgyCsL4tueu-LZ3ptzg&fsk=ChAI8Oes1gYQhOTtsLrDkd5MEiwA8j44-2oPCjkGcr9DhlmQpLibowex1NZXBapbmSLGkhRbZbEi5k8E178IGxoC7uk&pscrd=IhMIgN2A7cKzlwMVO8l-CR28hyU0OhhodHRwczovL3d3dy5rbGF2aXlvLmNvbS9CV0NoQUk4T2VzMWdZUXdxSzU1UExCMXI5VEVpMEFkM1hiclk3b3MtRmFDSk9vS1FDVGRsbi0tMWl4M1dtb05IOHpVUVdLSkI3WUdzNFkxZUk2OC1WVWVfNHoMCAliCAgAEAAYACAA",
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://track.hubspot.com/__ptq.gif?k=1&sd=1600x1100&cd=24-bit&cs=UTF-8&ln=en-us%40posix&bfp=a32566abb6fb9424235d95831b34f131&v=1.1&a=48163345&rcu=https%3A%2F%2Fwww.klaviyo.com%2F&pu=https%3A%2F%2Fwww.klaviyo.com%2F&t=Klaviyo%3A+AI+Email+Marketing+%26+SMS+%7C+B2C+CRM&cts=1791775222078&vi=c5d1e0461acfacd18b6a2d2df9c973ce&nc=true&u=7639149.c5d1e0461acfacd18b6a2d2df9c973ce.1791775222076.1791775222076.1791775222076.1&b=7639149.1.1791775222076&cc=15",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://www.google.com/pagead/1p-conversion/607008856/?random=224325443&cv=11&fst=1791775221998&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6a72h1v9175041378za200zb72424615zd72424615xecxf1&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969&u_w=1600&u_h=1100&url=https%3A%2F%2Fwww.klaviyo.com%2F&rcb=6&label=EUbhCLyAj7oZENjwuKEC&capi=1&gtm_ee=1&frm=0&tiba=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1750846360.1791775222&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&ec_mode=a&oidsrc=3&ecsid2=520717874.1791775222&_tu=ABA&gcl_ctr=1~0~0~0&data=event%3Dconversion&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkYKEAjw56zWBhDoppmW5dTSr3sSMgDKdSDfL6Pdgak93_O1GeuD24Ljd1RL8cPgbowzMdcaRsy_zLvsvieDFDj0T0qqnQi18P8HAQ&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCPTasQII4uqxAgjo7rECCJLrsQIIyeOxAgiX1LECCMnbsQIIzeaxAgim3bECCLDesQIIgNuxAgjN4bECSjB0cmlnZ2VyLCBub3QtZXZlbnQtc291cmNlLCBub3QtbmF2aWdhdGlvbi1zb3VyY2VaAwoBAWIDCgED&cerd=CgyCsL4tueu-LZ3ptzg&fsk=ChAI8Oes1gYQhOTtsLrDkd5MEiwA8j44-2oPCjkGcr9DhlmQpLibowex1NZXBapbmSLGkhRbZbEi5k8E178IGxoC7uk&pscrd=IhMIgN2A7cKzlwMVO8l-CR28hyU0OhhodHRwczovL3d3dy5rbGF2aXlvLmNvbS9CV0NoQUk4T2VzMWdZUXdxSzU1UExCMXI5VEVpMEFkM1hiclk3b3MtRmFDSk9vS1FDVGRsbi0tMWl4M1dtb05IOHpVUVdLSkI3WUdzNFkxZUk2OC1WVWVfNHoMCAliCAgAEAAYACAA&is_vtc=1&cid=CAQS4QEAQM4h3LXAh0819_iRKEeyTu2xK8q90cqtRwHqVqxjFk15mIRRMD4PKnCUufAfu6ZVu4SWRth8BTOIDF0JkweyEsVsjPFB9kXIXVBzYih9asqakJzDoRo7QNyXP_NxdqApH189_0BT1GqdMEs9ONPf_VNNykQFrElQXDkwXv8o7ismixcpNxEIU3UVrwpGSy2ykNwJDM7kGBU29tZw4SoNjcbGswFFML0r7MAsEVTQ2VLT2GVUOrEf9RfVq3J4OOl2JloGHPnL_nbuzS9Q2xuOJZlvrFyVCvQkV52Hvr6a9l4&random=3747244810",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://vod-adaptive-ak.vimeocdn.com/exp=1791778821~acl=%2Fdcfd4c8c-7eb8-4696-b9af-cb8f0591d750%2Fpsid%3D5d846b0887cf2f63baca2796d6a503d9a123c2d31791775221%2F%2A~hmac=94c4c28bcea1838d3185ebc41aae65cfce2875898c36c38afb2b57c5e32d3de5/dcfd4c8c-7eb8-4696-b9af-cb8f0591d750/psid=5d846b0887cf2f63baca2796d6a503d9a123c2d31791775221/v2/range/prot/cmFuZ2U9NzAyOTM4LTEzNTM5NzI/avf/6a8c51f0-7472-41de-852b-e062cbef65b6.mp4?pathsig=8c953e4f~PNIHuXZhOPHx4KoWxDZE-kLiM5fQcs1GIlEOnFGMF7w&r=dXMtd2VzdDE%3D&range=702938-1353972",
+      "method": "GET",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-E2RS7HT946&cx=c&gtm=4e6a72h1",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=AW-878432221&cx=c&gtm=4e6a72h1",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=AW-18177269144&cx=c&gtm=4e6a72h1",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://j.6sc.co/j/2a417af6-5a13-4ed8-915d-3acba087d374.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://cdn-0.d41.co/tags/dnb_coretag_v6.min.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://dx.mountain.com/spx?dxver=4.0.0&shaid=32261&tdr=&plh=https%3A%2F%2Fwww.klaviyo.com%2F&cb=78446632787436480term=value",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://static.ads-twitter.com/uwt.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.redditstatic.com/ads/pixel.js?pixel_id=t2_4rx7stog",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://t.contentsquare.net/uxa/d7d7a4ae1fff8.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://c.amazon-adsystem.com/aat/amzn.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://connect.facebook.net/en_US/fbevents.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://tracking.g2crowd.com/attribution_tracking/conversions/546.js?p=https://www.klaviyo.com/&e=",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://cdn.pdst.fm/ping.min.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://cdn.heapanalytics.com/js/heap-91017801.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://extend.vimeocdn.com/ga/66762855.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://js.adsrvr.org/up_loader.1.1.0.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://collector-51975.us.tvsquared.com/tv2track.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://js.adsrvr.org/up_loader.3.0.0.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://tag.demandbase.com/dc0e7f5a4703b5b9.min.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D6OPJLJC77UFILRRBPEG&lib=ttq",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://bzrcdn.openai.com/sdk/oaiq.min.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://js.navattic.com/sdk.js?key=pkey_cm34kmsgs01h0rs3b3w9gehnq",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://tr.capterra.com/static/wp.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/607008856/?random=1791775222563&cv=11&fst=1791775222563&bg=ffffff&guid=ON&async=1&gtm=45be6a72h1v9175041378z872424615za200zb72424615zd72424615xeaxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969&u_w=1600&u_h=1100&url=https%3A%2F%2Fwww.klaviyo.com%2F&rcb=6&frm=0&tiba=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1750846360.1791775222&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=9&rfmt=3&fmt=4",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/607008856/?random=1791775222563&cv=11&fst=1791775222563&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6a72h1v9175041378z872424615za200zb72424615zd72424615xeaxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969&u_w=1600&u_h=1100&url=https%3A%2F%2Fwww.klaviyo.com%2F&rcb=6&frm=0&tiba=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1750846360.1791775222&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=68&gcp=5",
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.googleadservices.com/pagead/conversion/607008856/?random=1791775222565&cv=11&fst=1791775222565&fmt=7&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6a72h1v9175041378z872424615za200zb72424615zd72424615xeaxf1&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969&u_w=1600&u_h=1100&url=https%3A%2F%2Fwww.klaviyo.com%2F&rcb=6&label=_zkICIrtqJ0DENjwuKEC&capi=1&frm=0&tiba=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&bttype=purchase&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1750846360.1791775222&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&ec_mode=m&oid=GG_264449732.1791775223&oidsrc=3&ecsid2=520717874.1791775222&_tu=CBA&gcl_ctr=2~0~0~0&data=ads_data_redaction%3Dfalse&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=17&frm=0&apvc=0&ae=g&auid=1750846360.1791775222&dt=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&en=page_view&dl=https%3A%2F%2Fwww.klaviyo.com%2F&scrsrc=www.googletagmanager.com&rnd=1849783647.1791775222&navt=n&npa=0&ep.ads_data_redaction=0&_tu=CA&gtm=45He6a72h1v72424615za200zd72424615xeaxf1&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115616986~115938466~115938468~118897920~118897930~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969&tft=1791775222570&tfd=2637&fmt=8",
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.facebook.com/tr?id=936754686447501&ev=PageView&vdpo=LDU&dpoco=0&dpost=0&gtmcb=1223279751",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://arttrk.com/pixel/?ad_log=referer&action=lead&pixid=b4c1369f-a62c-4653-8656-125edefa495d&gtmcb=652885268",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://insight.adsrvr.org/track/pxl/?adv=hyyco3t&ct=0:ctcins1&fmt=3&gtmcb=1402041193",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://insight.adsrvr.org/track/pxl/?adv=szsbp8f&ct=0:2w5n121&fmt=3&gtmcb=1461096074",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://trkn.us/pixel/conv/ppt=27118;g=engagement;gid=71520;ord=166155399;JSU!!NUnUjx3wvH5xgA!f1dr5xuWHS9syJu2S8Tb4LD6j1bKs-uGbqFoYPdSzE8W-1qxZhFKfHOsdkEDgr5qvqjUn_0gULtI4uCTpbJCQ_hlqqyGrTtPWw$?gtmcb=1272284094",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=6&frm=0&apvc=0&ae=g&auid=1750846360.1791775222&dt=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&tid=AW-607008856&dl=https%3A%2F%2Fwww.klaviyo.com%2F&scrsrc=www.googletagmanager.com&rnd=1849783647.1791775222&navt=n&npa=0&ep.ads_data_redaction=0&_tu=CA&gtm=45be6a72h1v9175041378z872424615za200zb72424615zd72424615xeaxf1&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969&tft=1791775222572&tfd=2638&tids=AW-607008856&fmt=8",
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.googleadservices.com/ccm/conversion/607008856/?random=1791775222565&cv=11&fst=1791775222565&fmt=3&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6a72h1v9175041378z872424615za200zb72424615zd72424615xeaxf1&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969&u_w=1600&u_h=1100&url=https%3A%2F%2Fwww.klaviyo.com%2F&rcb=6&label=_zkICIrtqJ0DENjwuKEC&capi=1&frm=0&tiba=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&bttype=purchase&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1750846360.1791775222&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&ec_mode=m&oid=GG_264449732.1791775223&oidsrc=3&ecsid2=520717874.1791775222&_tu=CBA&gcl_ctr=2~0~0~0&data=ads_data_redaction%3Dfalse&category=acrcp_v1_512&em=tv.1&emd=tvd.1",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://js.qualified.com/qualified.js?token=QXXydKGCPwwjwrgb",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://vod-adaptive-ak.vimeocdn.com/exp=1791778821~acl=%2Fdcfd4c8c-7eb8-4696-b9af-cb8f0591d750%2Fpsid%3D5d846b0887cf2f63baca2796d6a503d9a123c2d31791775221%2F%2A~hmac=94c4c28bcea1838d3185ebc41aae65cfce2875898c36c38afb2b57c5e32d3de5/dcfd4c8c-7eb8-4696-b9af-cb8f0591d750/psid=5d846b0887cf2f63baca2796d6a503d9a123c2d31791775221/v2/range/prot/cmFuZ2U9MTM1Mzk3My0xNzcxNDEy/avf/6a8c51f0-7472-41de-852b-e062cbef65b6.mp4?pathsig=8c953e4f~th-BJTDx-Qci26lI3ASpjpE4dcHPEMagrm1YLLWz11U&r=dXMtd2VzdDE%3D&range=1353973-1771412",
+      "method": "GET",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://t.co/i/adsct?bci=3&dv=UTC%26en-US%40posix%26Google%20Inc.%26Linux%20x86_64%26255%261600%261100%264%2624%261600%261100%260%26na&eci=2&event_id=6ba1676e-40e4-4323-bac5-9affe671d5f0&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=74415da0-8156-49ea-bb40-8335be52aa02&tw_ch_fvl=Chromium%2F140.0.7339.16%2CNot%3DA%3FBrand%2F24.0.0.0%2CHeadlessChrome%2F140.0.7339.16&tw_ch_pv=10_15_7&tw_document_href=https%3A%2F%2Fwww.klaviyo.com%2F&tw_engaged_ms=4&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&tw_session_count=1&tw_session_id=1791775222610-385058439&tw_session_start=1&twpid=tw.1791775222610.704264551367404317&txn_id=nxjbg&type=javascript&version=2.4.11",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://analytics.twitter.com/i/adsct?bci=3&dv=UTC%26en-US%40posix%26Google%20Inc.%26Linux%20x86_64%26255%261600%261100%264%2624%261600%261100%260%26na&eci=2&event_id=6ba1676e-40e4-4323-bac5-9affe671d5f0&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=74415da0-8156-49ea-bb40-8335be52aa02&tw_ch_fvl=Chromium%2F140.0.7339.16%2CNot%3DA%3FBrand%2F24.0.0.0%2CHeadlessChrome%2F140.0.7339.16&tw_ch_pv=10_15_7&tw_document_href=https%3A%2F%2Fwww.klaviyo.com%2F&tw_engaged_ms=4&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&tw_session_count=1&tw_session_id=1791775222610-385058439&tw_session_start=1&twpid=tw.1791775222610.704264551367404317&txn_id=nxjbg&type=javascript&version=2.4.11",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://bite.australiarevival.com/mon",
+      "method": "POST",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://www.google.com/pagead/1p-user-list/607008856/?random=1791775222563&cv=11&fst=1791774000000&bg=ffffff&guid=ON&async=1&gtm=45be6a72h1v9175041378z872424615za200zb72424615zd72424615xeaxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969&u_w=1600&u_h=1100&url=https%3A%2F%2Fwww.klaviyo.com%2F&rcb=6&frm=0&tiba=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1750846360.1791775222&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4QEAQM4h3JMrIopertBkTZU-f_mWvA3AsAqHxfgb6XPpozRQi6b7o5PaXi-cCeEo-xz88C6IFaiLUplHUMQ4Qs3v7We8F3XPsjsv-QPxXM-MhK3a0prBzSgSFEpY9dfhoC7xajoGgIRrtahIArruxO8mxKeOo6kWP-L4v_s1RsUwE4JRw7vVpcFD4rB9oTS7dcviwFjUOTeL2HhgnhW2IewIKIjdO7lUOTjiIq2YLCLbByIUxVwgdVmmowkhsBBvGibnACvA4plq1TYDOEVPdZMG_GfBoXbmovdDe--c5dQq1hU&random=1369012222&rmt_tld=0&ipr=y",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://c.amazon-adsystem.com/aat/amzn.js",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://c.amazon-adsystem.com/aat/amzn.js",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://s.amazon-adsystem.com/iu3?pid=b69567c1-e4d1-43f8-b236-236708818db5&event=PageView&gtmVersion=3.4&ts=1791775222623&eventSource=amzn.js&uuid=be750962-7647-4887-99f8-61f46a1fa12f",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://c.amazon-adsystem.com/aat/amzn.js",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://s.amazon-adsystem.com/iu3?pid=b69567c1-e4d1-43f8-b236-236708818db5&event=PageView&gtmVersion=3.4&ts=1791775222624&eventSource=amzn.js&uuid=7ad44ff7-d6be-4466-a5f1-716030d8759f",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://s.amazon-adsystem.com/iu3?pid=e5e26f4b-c61a-44c7-9b9d-a1b9df1f7cc3&event=PageView&gtmVersion=3.4&ts=1791775222624&eventSource=amzn.js&uuid=de047de1-6089-4af2-9b43-41f7cf1540c2",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://aax-eu.amazon-adsystem.com/s/iu3?pid=b69567c1-e4d1-43f8-b236-236708818db5&event=PageView&gtmVersion=3.4&ts=1791775222625&eventSource=amzn.js&uuid=9b76f25a-dede-4072-96eb-718b7dacd0eb",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://aax-eu.amazon-adsystem.com/s/iu3?pid=e5e26f4b-c61a-44c7-9b9d-a1b9df1f7cc3&event=PageView&gtmVersion=3.4&ts=1791775222625&eventSource=amzn.js&uuid=f6ae687c-c121-4e6d-a380-df1eb11f9f91",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://aax-eu.amazon-adsystem.com/s/iu3?pid=0b6af21d-ac70-4835-9d32-fe1caabbcf0a&event=PageView&gtmVersion=3.4&ts=1791775222625&eventSource=amzn.js&uuid=9f46155e-8ef8-4df6-9a42-096642c11d3e",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://c.amazon-adsystem.com/aat/amzn.js",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://aax-eu.amazon-adsystem.com/s/iu3?pid=b69567c1-e4d1-43f8-b236-236708818db5&event=Search&gtmVersion=3.4&ts=1791775222627&eventSource=amzn.js&uuid=38a373d4-9811-4f70-bc54-ee159a2a1569",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://aax-eu.amazon-adsystem.com/s/iu3?pid=e5e26f4b-c61a-44c7-9b9d-a1b9df1f7cc3&event=Search&gtmVersion=3.4&ts=1791775222627&eventSource=amzn.js&uuid=1cf7c734-8033-426c-8a5f-7cc178997986",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://aax-eu.amazon-adsystem.com/s/iu3?pid=0b6af21d-ac70-4835-9d32-fe1caabbcf0a&event=Search&gtmVersion=3.4&ts=1791775222627&eventSource=amzn.js&uuid=38778c9b-d2a3-4436-ae6a-688525692a2f",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://aax-eu.amazon-adsystem.com/s/iu3?pid=b69567c1-e4d1-43f8-b236-236708818db5&event=Search&gtmVersion=3.4&ts=1791775222628&eventSource=amzn.js&uuid=9b09bb57-33ea-4c33-b5f5-f8f14a38e69d",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://aax-eu.amazon-adsystem.com/s/iu3?pid=e5e26f4b-c61a-44c7-9b9d-a1b9df1f7cc3&event=Search&gtmVersion=3.4&ts=1791775222628&eventSource=amzn.js&uuid=5ca3909f-497b-404a-8bed-882b2a55e6d7",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://aax-eu.amazon-adsystem.com/s/iu3?pid=0b6af21d-ac70-4835-9d32-fe1caabbcf0a&event=Search&gtmVersion=3.4&ts=1791775222628&eventSource=amzn.js&uuid=252008e6-2b44-47a1-8666-561df4d1a34a",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://c.amazon-adsystem.com/aat/allowlist/allowlist.json",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/607008856/?random=1294597532&cv=11&fst=1791775222565&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6a72h1v9175041378z872424615za200zb72424615zd72424615xeaxf1&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969&u_w=1600&u_h=1100&url=https%3A%2F%2Fwww.klaviyo.com%2F&rcb=6&label=_zkICIrtqJ0DENjwuKEC&capi=1&frm=0&tiba=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1750846360.1791775222&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&ec_mode=m&oidsrc=3&ecsid2=520717874.1791775222&_tu=CBA&gcl_ctr=2~0~0~0&data=ads_data_redaction%3Dfalse&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkYKEAjw56zWBhDoppmW5dTSr3sSMgDKdSDfah2V8axsfwAhkdiO4Y8dZGe_LHWvJxRZEh_sle2ftwF3UU08LEa0fGbcps_s8P8HAQ&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCPTasQII4uqxAgjo7rECCJLrsQIIyeOxAgiX1LECCMnbsQIIzeaxAgim3bECCLDesQIIgNuxAgjN4bECSit0cmlnZ2VyO25hdmlnYXRpb24tc291cmNlLCBub3QtZXZlbnQtc291cmNlWgMKAQFiAwoBAw&cerd=ChCCsL4tueu-LZKHvy2d6bc4&eitems=ChAI8Oes1gYQydut5aX93aV2Eh0A-Uq_dA9AxLwXhbbtVrNnwUBxr4h5nMgJJQkSXw&fsk=ChAI8Oes1gYQhOTtsLrDkd5MEiwA8j44-357TNRMIpTS4axeKYpfsYy3JvE8NL-32l-MhKYgFPWVQVk6NgEikxoCJ5Y&pscrd=IhMIo5ej7cKzlwMVSSyOBR20fgQ4OhhodHRwczovL3d3dy5rbGF2aXlvLmNvbS9CV0NoQUk4T2VzMWdZUXdxSzU1UExCMXI5VEVpMEFkM1hicldLV1hFMkJMd1ZVX012akRVdERqNTdRTVd2M2c3eFhidi15aFY2a3hGQklIZ2dHeXMzZ2RPRXoMCAliCAgAEAAYACAA",
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://snap.licdn.com/li.lms-analytics/insight.beta.min.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://alb.reddit.com/rp?id=t2_4rx7stog&event=PageVisit",
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://alb.reddit.com/rp?id=t2_4rx7stog&event=Search",
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://alb.reddit.com/rp?id=a2_j2n83d6mrk4s&event=PageVisit",
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://t.contentsquare.net/releases/15.263.3/es2019/3fa0004-640a521e.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://tracking-api.g2.com/attribution_tracking/conversions/assign",
+      "method": "POST",
+      "resourceType": "ping"
+    },
+    {
+      "url": "https://bite.australiarevival.com/mon",
+      "method": "POST",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://heapanalytics.com/h?a=91017801&u=3314079175546&v=4884088788833739&s=8650053993575938&b=web&tv=4.0&z=0&h=%2F&d=www.klaviyo.com&t=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&k=Full%20URL&k=https%3A%2F%2Fwww.klaviyo.com%2F&k=Screen%20Size&k=1600%20x%201100&k=Window%20Size&k=1600%20x%201100&k=Page%20Type&k=home&ts=1791775222757&ubv=140.0.7339.16&upv=10_15_7&sch=1100&scw=1600&st=1791775222762&lv=4.23.12&ld=cdn.heapanalytics.com",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://www.google.com/pagead/1p-conversion/607008856/?random=1294597532&cv=11&fst=1791775222565&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6a72h1v9175041378z872424615za200zb72424615zd72424615xeaxf1&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969&u_w=1600&u_h=1100&url=https%3A%2F%2Fwww.klaviyo.com%2F&rcb=6&label=_zkICIrtqJ0DENjwuKEC&capi=1&frm=0&tiba=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1750846360.1791775222&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&ec_mode=m&oidsrc=3&ecsid2=520717874.1791775222&_tu=CBA&gcl_ctr=2~0~0~0&data=ads_data_redaction%3Dfalse&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkYKEAjw56zWBhDoppmW5dTSr3sSMgDKdSDfah2V8axsfwAhkdiO4Y8dZGe_LHWvJxRZEh_sle2ftwF3UU08LEa0fGbcps_s8P8HAQ&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCPTasQII4uqxAgjo7rECCJLrsQIIyeOxAgiX1LECCMnbsQIIzeaxAgim3bECCLDesQIIgNuxAgjN4bECSit0cmlnZ2VyO25hdmlnYXRpb24tc291cmNlLCBub3QtZXZlbnQtc291cmNlWgMKAQFiAwoBAw&cerd=ChCCsL4tueu-LZKHvy2d6bc4&fsk=ChAI8Oes1gYQhOTtsLrDkd5MEiwA8j44-357TNRMIpTS4axeKYpfsYy3JvE8NL-32l-MhKYgFPWVQVk6NgEikxoCJ5Y&pscrd=IhMIo5ej7cKzlwMVSSyOBR20fgQ4OhhodHRwczovL3d3dy5rbGF2aXlvLmNvbS9CV0NoQUk4T2VzMWdZUXdxSzU1UExCMXI5VEVpMEFkM1hicldLV1hFMkJMd1ZVX012akRVdERqNTdRTVd2M2c3eFhidi15aFY2a3hGQklIZ2dHeXMzZ2RPRXoMCAliCAgAEAAYACAA&is_vtc=1&cid=CAQS4QEAQM4h3KzwI8ID888RllyBZv5TdOD6isxLkjGpkEHRkaHHE9pPvABUXHnbrGexBelEnzbiTuzBfjsqtjYGNIDNAhfAHcdTP0X8IgusQw10az9SSDbhBu4Zz6gnhqhiGz3eoYeszkJLImeDVkkDYvntzYw5Xs0ljPP0lWMHG0zcUHfMHocwaG9rIkyUUJ1qUBE9LD75kqUsayvga2uegS5_WEnA1Qyi26vlm_sxZffFyLYbKMukS3DA8HMvABc0bMc-tGgEh9um7_HO-W_6bWMb6exvPCdfN3DER0PHMfdVm_s&eitems=ChAI8Oes1gYQydut5aX93aV2Eh0A-Uq_dO-BJdeRmD0w_OwVc_ioKWaRFwvRQuKHwQ&random=2722854082",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://j.6sc.co/6si.min.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://paapi517.d41.co/api?ctver=6&req=paapi517&form=json",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://events.navattic.com/api/visitors/config?key=pkey_cm34kmsgs01h0rs3b3w9gehnq",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://dpm.demdex.net/ibs:dpid=903&dpuuid=8facafd3-1ba5-4cf6-8206-a7dc9453345c&gdpr=0&gdpr_consent=&redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Daam",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://ib.adnxs.com/getuid?https%3a%2f%2fmatch.adsrvr.org%2ftrack%2fcmf%2fappnexus%3fttd%3d1%26anid%3d%24UID&ttd_tdid=ec6fc7e0-44af-4fba-94ac-5f783448f8fd",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://insight.adsrvr.org/track/cei?advertiser_id=wfjxnw7&cookie_sync=1&upv=3.0.0&upid=wrf1gbs&ref=https%3A%2F%2Fwww.klaviyo.com%2F",
+      "method": "GET",
+      "resourceType": "document"
+    },
+    {
+      "url": "https://bite.australiarevival.com/mon",
+      "method": "POST",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://insight.adsrvr.org/track/cei?advertiser_id=hyyco3t&cookie_sync=1&upv=3.0.0&upid=dswqcn2&ref=https%3A%2F%2Fwww.klaviyo.com%2F",
+      "method": "GET",
+      "resourceType": "document"
+    },
+    {
+      "url": "https://trkn.us/pixel/conv/ppt=27118;g=engagement;gid=71520;ord=166155399;JSU!!NUnUjx3wvH5xgA!f1dr5xuWHS9syJu2S8Tb4LD6j1bKs-uGbqFoYPdSzE8W-1qxZhFKfHOsdkEDgr5qvqjUn_0gULtI4uCTpbJCQ_hlqqyGrTtPWw$?gtmcb=1272284094;ip=4.150.181.68;cuidchk=1",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://s.amazon-adsystem.com/iu3?pid=e5e26f4b-c61a-44c7-9b9d-a1b9df1f7cc3&event=PageView&gtmVersion=3.4&ts=1791775222624&eventSource=amzn.js&uuid=de047de1-6089-4af2-9b43-41f7cf1540c2&dcc=t",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://s.amazon-adsystem.com/iu3?pid=b69567c1-e4d1-43f8-b236-236708818db5&event=PageView&gtmVersion=3.4&ts=1791775222623&eventSource=amzn.js&uuid=be750962-7647-4887-99f8-61f46a1fa12f&dcc=t",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://s.amazon-adsystem.com/iu3?pid=b69567c1-e4d1-43f8-b236-236708818db5&event=PageView&gtmVersion=3.4&ts=1791775222624&eventSource=amzn.js&uuid=7ad44ff7-d6be-4466-a5f1-716030d8759f&dcc=t",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://js.adsrvr.org/universal_pixel.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://js.adsrvr.org/universal_pixel.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://c.az.contentsquare.net/pageview?ex=&dt=84&pvt=n&la=en-US%40posix&uc=0&url=https%3A%2F%2Fwww.klaviyo.com%2F&dr=&dw=1600&dh=8416&ww=1600&wh=1100&sw=1600&sh=1100&uu=cf86a3ba-f337-aae2-ba52-bb2c8ef6a2b1&sn=1&hd=1791775222&v=15.263.3&pid=59312&pn=1&happid=91017801&hsid=8650053993575938&huu=3314079175546&ct=0",
+      "method": "POST",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://ib.adnxs.com/bounce?%2Fgetuid%3Fhttps%253a%252f%252fmatch.adsrvr.org%252ftrack%252fcmf%252fappnexus%253fttd%253d1%2526anid%253d%2524UID%26ttd_tdid%3Dec6fc7e0-44af-4fba-94ac-5f783448f8fd",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://ara.paa-reporting-advertising.amazon/aat?pid=e5e26f4b-c61a-44c7-9b9d-a1b9df1f7cc3&event=PageView&gtmVersion=3.4&ts=1791775222624&eventSource=amzn.js&uuid=de047de1-6089-4af2-9b43-41f7cf1540c2",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ara.paa-reporting-advertising.amazon/aat?pid=b69567c1-e4d1-43f8-b236-236708818db5&event=PageView&gtmVersion=3.4&ts=1791775222623&eventSource=amzn.js&uuid=be750962-7647-4887-99f8-61f46a1fa12f",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ara.paa-reporting-advertising.amazon/aat?pid=b69567c1-e4d1-43f8-b236-236708818db5&event=PageView&gtmVersion=3.4&ts=1791775222624&eventSource=amzn.js&uuid=7ad44ff7-d6be-4466-a5f1-716030d8759f",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://pixel.rubiconproject.com/tap.php?v=8981&nid=2307&put=ec6fc7e0-44af-4fba-94ac-5f783448f8fd&gdpr=0&gdpr_consent=&expires=30&next=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Frubicon",
+      "method": "GET",
+      "resourceType": "document"
+    },
+    {
+      "url": "https://cm.g.doubleclick.net/pixel?google_nid=TheTradeDesk&google_cm&google_sc&google_hm=ZWM2ZmM3ZTAtNDRhZi00ZmJhLTk0YWMtNWY3ODM0NDhmOGZk&gdpr=0&gdpr_consent=&ttd_tdid=ec6fc7e0-44af-4fba-94ac-5f783448f8fd",
+      "method": "GET",
+      "resourceType": "document"
+    },
+    {
+      "url": "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=39&external_user_id=ec6fc7e0-44af-4fba-94ac-5f783448f8fd&expiration=1794367222&gdpr=0&gdpr_consent=",
+      "method": "GET",
+      "resourceType": "document"
+    },
+    {
+      "url": "https://dpm.demdex.net/ibs:dpid=903&dpuuid=ec6fc7e0-44af-4fba-94ac-5f783448f8fd&gdpr=0&gdpr_consent=&redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Daam",
+      "method": "GET",
+      "resourceType": "document"
+    },
+    {
+      "url": "https://pixel.rubiconproject.com/tap.php?v=8981&nid=2307&put=ec6fc7e0-44af-4fba-94ac-5f783448f8fd&gdpr=0&gdpr_consent=&expires=30&next=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Frubicon",
+      "method": "GET",
+      "resourceType": "document"
+    },
+    {
+      "url": "https://cm.g.doubleclick.net/pixel?google_nid=TheTradeDesk&google_cm&google_sc&google_hm=ZWM2ZmM3ZTAtNDRhZi00ZmJhLTk0YWMtNWY3ODM0NDhmOGZk&gdpr=0&gdpr_consent=&ttd_tdid=ec6fc7e0-44af-4fba-94ac-5f783448f8fd",
+      "method": "GET",
+      "resourceType": "document"
+    },
+    {
+      "url": "https://app.qualified.com/w/1/QXXydKGCPwwjwrgb/visitor_events?",
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://app.qualified.com/w/1/QXXydKGCPwwjwrgb/visitor_events?",
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://app.qualified.com/w/1/QXXydKGCPwwjwrgb/visitor_events?wu=85274cc4-f62e-4af9-8f3d-52f27070ae32&uuid=dac29d15-b26c-4012-9f4e-a0a70632e1d6",
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://match.adsrvr.org/track/cmf/appnexus?ttd=1&anid=7660880096890107203&ttd_tdid=ec6fc7e0-44af-4fba-94ac-5f783448f8fd",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://dpm.demdex.net/demconf.jpg?et:ibs%7cdata:dpid=903&dpuuid=ec6fc7e0-44af-4fba-94ac-5f783448f8fd&gdpr=0&gdpr_consent=&redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Daam",
+      "method": "GET",
+      "resourceType": "document"
+    },
+    {
+      "url": "https://match.adsrvr.org/track/cmf/rubicon?gdpr=0",
+      "method": "GET",
+      "resourceType": "document"
+    },
+    {
+      "url": "https://match.adsrvr.org/track/cmf/google?g_uuid=&gdpr=0&gdpr_consent=&ttd_tdid=ec6fc7e0-44af-4fba-94ac-5f783448f8fd&google_gid=CAESEEZD-3plAHLW934wEenkQoI&google_cver=1",
+      "method": "GET",
+      "resourceType": "document"
+    },
+    {
+      "url": "https://dpm.demdex.net/demconf.jpg?et:ibs%7cdata:dpid=903&dpuuid=8facafd3-1ba5-4cf6-8206-a7dc9453345c&gdpr=0&gdpr_consent=&redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Daam",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=aam",
+      "method": "GET",
+      "resourceType": "document"
+    },
+    {
+      "url": "https://match.adsrvr.org/track/cmf/rubicon?gdpr=0",
+      "method": "GET",
+      "resourceType": "document"
+    },
+    {
+      "url": "https://k-us1.az.contentsquare.net/v2/recording?rt=5%2C7&v=15.263.3&pid=59312&pn=1&sn=1&uu=cf86a3ba-f337-aae2-ba52-bb2c8ef6a2b1&let=1791775223017&rst=1791775223015&happid=91017801&hsid=8650053993575938&huu=3314079175546&ri=1&ct=2",
+      "method": "POST",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://match.adsrvr.org/track/cmf/google?g_uuid=&gdpr=0&gdpr_consent=&ttd_tdid=ec6fc7e0-44af-4fba-94ac-5f783448f8fd&google_gid=CAESEEZD-3plAHLW934wEenkQoI&google_cver=1",
+      "method": "GET",
+      "resourceType": "document"
+    },
+    {
+      "url": "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=39&external_user_id=ec6fc7e0-44af-4fba-94ac-5f783448f8fd&expiration=1794367222&gdpr=0&gdpr_consent=&C=1",
+      "method": "GET",
+      "resourceType": "document"
+    },
+    {
+      "url": "https://c.az.contentsquare.net/dvar?v=15.263.3&pid=59312&pn=1&sn=1&uu=cf86a3ba-f337-aae2-ba52-bb2c8ef6a2b1&happid=91017801&hsid=8650053993575938&huu=3314079175546&dv=H4sIAAAAAAAAA6tWCnOMDwuID8tMSc1XSC0qyi9SslKC8DxdFKwUDI2MjM3MLUwtTIGckMqCVFewmloA0JJ7NDkAAAA%3D&ct=2&r=628231",
+      "method": "GET",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://vimeo.com/flarepoint/WcT0PXMm",
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://k-us1.az.contentsquare.net/v2/recording?rt=5%2C7&v=15.263.3&pid=59312&pn=1&sn=1&uu=cf86a3ba-f337-aae2-ba52-bb2c8ef6a2b1&let=1791775223129&rst=1791775223015&happid=91017801&hsid=8650053993575938&huu=3314079175546&ri=2&ct=2",
+      "method": "POST",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=aam",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://events.navattic.com/api/visitors/config/page?key=pkey_cm34kmsgs01h0rs3b3w9gehnq&url=https%3A%2F%2Fwww.klaviyo.com%2F",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://aax-eu.amazon-adsystem.com/s/iu3?pid=b69567c1-e4d1-43f8-b236-236708818db5&event=Search&gtmVersion=3.4&ts=1791775222627&eventSource=amzn.js&uuid=38a373d4-9811-4f70-bc54-ee159a2a1569&dcc=t",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://aax-eu.amazon-adsystem.com/s/iu3?pid=e5e26f4b-c61a-44c7-9b9d-a1b9df1f7cc3&event=PageView&gtmVersion=3.4&ts=1791775222625&eventSource=amzn.js&uuid=f6ae687c-c121-4e6d-a380-df1eb11f9f91&dcc=t",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://aax-eu.amazon-adsystem.com/s/iu3?pid=b69567c1-e4d1-43f8-b236-236708818db5&event=PageView&gtmVersion=3.4&ts=1791775222625&eventSource=amzn.js&uuid=9b76f25a-dede-4072-96eb-718b7dacd0eb&dcc=t",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://aax-eu.amazon-adsystem.com/s/iu3?pid=0b6af21d-ac70-4835-9d32-fe1caabbcf0a&event=Search&gtmVersion=3.4&ts=1791775222627&eventSource=amzn.js&uuid=38778c9b-d2a3-4436-ae6a-688525692a2f&dcc=t",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://aax-eu.amazon-adsystem.com/s/iu3?pid=0b6af21d-ac70-4835-9d32-fe1caabbcf0a&event=PageView&gtmVersion=3.4&ts=1791775222625&eventSource=amzn.js&uuid=9f46155e-8ef8-4df6-9a42-096642c11d3e&dcc=t",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://aax-eu.amazon-adsystem.com/s/iu3?pid=b69567c1-e4d1-43f8-b236-236708818db5&event=Search&gtmVersion=3.4&ts=1791775222628&eventSource=amzn.js&uuid=9b09bb57-33ea-4c33-b5f5-f8f14a38e69d&dcc=t",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://aax-eu.amazon-adsystem.com/s/iu3?pid=0b6af21d-ac70-4835-9d32-fe1caabbcf0a&event=Search&gtmVersion=3.4&ts=1791775222628&eventSource=amzn.js&uuid=252008e6-2b44-47a1-8666-561df4d1a34a&dcc=t",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://aax-eu.amazon-adsystem.com/s/iu3?pid=e5e26f4b-c61a-44c7-9b9d-a1b9df1f7cc3&event=Search&gtmVersion=3.4&ts=1791775222628&eventSource=amzn.js&uuid=5ca3909f-497b-404a-8bed-882b2a55e6d7&dcc=t",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ara.paa-reporting-advertising.amazon/aat?pid=b69567c1-e4d1-43f8-b236-236708818db5&event=Search&gtmVersion=3.4&ts=1791775222627&eventSource=amzn.js&uuid=38a373d4-9811-4f70-bc54-ee159a2a1569",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ara.paa-reporting-advertising.amazon/aat?pid=e5e26f4b-c61a-44c7-9b9d-a1b9df1f7cc3&event=PageView&gtmVersion=3.4&ts=1791775222625&eventSource=amzn.js&uuid=f6ae687c-c121-4e6d-a380-df1eb11f9f91",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ara.paa-reporting-advertising.amazon/aat?pid=b69567c1-e4d1-43f8-b236-236708818db5&event=PageView&gtmVersion=3.4&ts=1791775222625&eventSource=amzn.js&uuid=9b76f25a-dede-4072-96eb-718b7dacd0eb",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ara.paa-reporting-advertising.amazon/aat?pid=0b6af21d-ac70-4835-9d32-fe1caabbcf0a&event=Search&gtmVersion=3.4&ts=1791775222627&eventSource=amzn.js&uuid=38778c9b-d2a3-4436-ae6a-688525692a2f",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ara.paa-reporting-advertising.amazon/aat?pid=0b6af21d-ac70-4835-9d32-fe1caabbcf0a&event=PageView&gtmVersion=3.4&ts=1791775222625&eventSource=amzn.js&uuid=9f46155e-8ef8-4df6-9a42-096642c11d3e",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ara.paa-reporting-advertising.amazon/aat?pid=b69567c1-e4d1-43f8-b236-236708818db5&event=Search&gtmVersion=3.4&ts=1791775222628&eventSource=amzn.js&uuid=9b09bb57-33ea-4c33-b5f5-f8f14a38e69d",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ara.paa-reporting-advertising.amazon/aat?pid=0b6af21d-ac70-4835-9d32-fe1caabbcf0a&event=Search&gtmVersion=3.4&ts=1791775222628&eventSource=amzn.js&uuid=252008e6-2b44-47a1-8666-561df4d1a34a",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://aax-eu.amazon-adsystem.com/s/iu3?pid=e5e26f4b-c61a-44c7-9b9d-a1b9df1f7cc3&event=Search&gtmVersion=3.4&ts=1791775222627&eventSource=amzn.js&uuid=1cf7c734-8033-426c-8a5f-7cc178997986&dcc=t",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ara.paa-reporting-advertising.amazon/aat?pid=e5e26f4b-c61a-44c7-9b9d-a1b9df1f7cc3&event=Search&gtmVersion=3.4&ts=1791775222628&eventSource=amzn.js&uuid=5ca3909f-497b-404a-8bed-882b2a55e6d7",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://ara.paa-reporting-advertising.amazon/aat?pid=e5e26f4b-c61a-44c7-9b9d-a1b9df1f7cc3&event=Search&gtmVersion=3.4&ts=1791775222627&eventSource=amzn.js&uuid=1cf7c734-8033-426c-8a5f-7cc178997986",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://insight.adsrvr.org/track/realtimeconversion",
+      "method": "POST",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://connect.facebook.net/signals/config/743980872357899?v=2.9.415&r=stable&domain=www.klaviyo.com&hme=a4c28c8787325ac3f8f9eac68364f47df2a8c4266e43177443e5d7f6289c9774&ex_m=117%2C240%2C170%2C27%2C81%2C82%2C161%2C77%2C76%2C11%2C180%2C101%2C20%2C152%2C140%2C46%2C84%2C89%2C148%2C175%2C182%2C8%2C4%2C5%2C7%2C6%2C3%2C102%2C114%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C162%2C86%2C125%2C22%2C24%2C51%2C47%2C49%2C48%2C94%2C103%2C107%2C123%2C159%2C163%2C53%2C124%2C29%2C26%2C132%2C78%2C43%2C165%2C164%2C166%2C156%2C154%2C30%2C42%2C66%2C122%2C177%2C79%2C21%2C127%2C92%2C75%2C23%2C96%2C97%2C129%2C95%2C150%2C149%2C153%2C108%2C176%2C179%2C41%2C56%2C126%2C54%2C160%2C71%2C184%2C109%2C183%2C209%2C254%2C83%2C273%2C272%2C271%2C14%2C25%2C28%2C40%2C62%2C116%2C68%2C10%2C72%2C110%2C111%2C112%2C118%2C143%2C38%2C36%2C145%2C146%2C147%2C142%2C141%2C171%2C85%2C174%2C172%2C173%2C57%2C67%2C136%2C19%2C178%2C52%2C322%2C323%2C324%2C321%2C337%2C359%2C247%2C236%2C69%2C237%2C235%2C362%2C353%2C59%2C248%2C120%2C144%2C91%2C134%2C61%2C133%2C139%2C138%2C65%2C73%2C167%2C87%2C88%2C128%2C44%2C39%2C60%2C63%2C113%2C181%2C1%2C137%2C16%2C135%2C12%2C2%2C64%2C104%2C15%2C74%2C70%2C131%2C100%2C99%2C186%2C187%2C105%2C106%2C9%2C115%2C185%2C58%2C157%2C98%2C90%2C80%2C130%2C119%2C168%2C50%2C158%2C0%2C93%2C151%2C155%2C169%2C45%2C121%2C13%2C188",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://35.160.46.251/is",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://bzrcdn.openai.com/pixel-config/v1/4Fck9tkn2c2bPQmYbrXtwQ.json",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://bzrcdn.openai.com/pixel-config/v1/Ukx3JFA5AFkH8YF6xof7Wi.json",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://bzrcdn.openai.com/pixel-config/v1/JV5zvJRNrdSE4ucpAtPChr.json",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=1110420%2C9004906%2C8078164%2C616460&time=1791775223294&li_adsId=f46762d3-d712-42ab-9d92-a5d4b0faa933&pageLoadId=ec02fbe8-9ccd-439b-8592-db78798c9fe8&url=https%3A%2F%2Fwww.klaviyo.com%2F&tm=gtmv2",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=1110420%2C9004906%2C8078164%2C616460&time=1791775223295&li_adsId=f46762d3-d712-42ab-9d92-a5d4b0faa933&pageLoadId=ec02fbe8-9ccd-439b-8592-db78798c9fe8&url=https%3A%2F%2Fwww.klaviyo.com%2F&tm=gtmv2",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://pixels.spotify.com/v1/config/5c4b3ec4d775471db0a0bee24444d5bf",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://pixels.spotify.com/v1/ingest",
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://s.company-target.com/s/sync?exc=lr",
+      "method": "GET",
+      "resourceType": "document"
+    },
+    {
+      "url": "https://id.rlcdn.com/464526.gif",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://api.company-target.com/api/v3/ip.json?referrer=&page=https%3A%2F%2Fwww.klaviyo.com%2F&page_title=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM",
+      "method": "POST",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://analytics.tiktok.com/i18n/pixel/static/main.MWU2MzIzODM0MQ.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://collector-51975.us.tvsquared.com/tv2track.php?action_name=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&idsite=TV-4581092745-1&rec=1&r=161060&h=3&m=20&s=23&url=https%3A%2F%2Fwww.klaviyo.com%2F&_id=8b29cfe42faacaf0&_idts=1791775223&_idvc=0&_idn=1&_viewts=&cookie=1&res=2400x1650&gt_ms=199",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-E2RS7HT946&gtm=45je6a72h1v871906956za20ozb72424615zd72424615xf1&_p=1791775220349&_gaz=1&gcs=G111&gcd=13t3t3t3t5l1&npa=0&dma=0&ecid=1540685150&_eu=AAAAAGAC&are=1&cid=1639798227.1791775223&ec_mode=a&frm=0&pscdl=noapi&rcb=3&sr=1600x1100&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uam=&uamb=0&uap=macOS&uapv=10_15_7&uaw=0&ul=en-us%40posix&gaf=2&_s=1&tag_exp=115616986~115938466~115938469~118869188~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034&dp=%2F&dr=&dl=https%3A%2F%2Fwww.klaviyo.com%2F&sid=1791775223&sct=1&seg=0&dt=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&_tu=CA&en=page_view&_fv=1&_nsi=1&_ss=1&ep.content_group=home&ep.page_query=&ep.logged_in=false&ep.kvyo_mkt_id=&up.existing_klaviyo_user=false&up.kvyo_mkt_id=&tfd=3452",
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://stats.g.doubleclick.net/g/collect?v=2&tid=G-E2RS7HT946&cid=1639798227.1791775223&gtm=45je6a72h1v871906956za20ozb72424615zd72424615xf1&rcb=3&aip=1&dma=0&gcs=G111&gcd=13t3t3t3t5l1&npa=0&frm=0&tag_exp=115616986~115938466~115938469~118869188~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034",
+      "method": "POST",
+      "resourceType": "ping"
+    },
+    {
+      "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=1110420%2C9004906%2C8078164%2C616460&time=1791775223294&li_adsId=f46762d3-d712-42ab-9d92-a5d4b0faa933&pageLoadId=ec02fbe8-9ccd-439b-8592-db78798c9fe8&url=https%3A%2F%2Fwww.klaviyo.com%2F&tm=gtmv2&cookiesTest=true",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=1110420%2C9004906%2C8078164%2C616460&time=1791775223295&li_adsId=f46762d3-d712-42ab-9d92-a5d4b0faa933&pageLoadId=ec02fbe8-9ccd-439b-8592-db78798c9fe8&url=https%3A%2F%2Fwww.klaviyo.com%2F&tm=gtmv2&cookiesTest=true",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://analytics.tiktok.com/i18n/pixel/static/identify_0504602d.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://analytics-ipv6.tiktokw.us/ipv6/enrich_ipv6",
+      "method": "POST",
+      "resourceType": "ping"
+    },
+    {
+      "url": "https://analytics.tiktok.com/api/v2/pixel",
+      "method": "POST",
+      "resourceType": "ping"
+    },
+    {
+      "url": "https://analytics.tiktok.com/api/v2/pixel",
+      "method": "POST",
+      "resourceType": "ping"
+    },
+    {
+      "url": "https://id.rlcdn.com/1000.gif?memo=CI6tHBoNCPejsdYGEgUI6AcQAEIASgA",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://c.az.contentsquare.net/api-errors?v=15.263.3&pid=59312&pn=1&sn=1&uu=cf86a3ba-f337-aae2-ba52-bb2c8ef6a2b1&happid=91017801&hsid=8650053993575938&huu=3314079175546&ct=0",
+      "method": "POST",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://www.linkedin.com/px/li_sync?redirect=https%3A%2F%2Fpx.ads.linkedin.com%2Fcollect%3Fv%3D2%26fmt%3Djs%26pid%3D1110420%252C9004906%252C8078164%252C616460%26time%3D1791775223294%26li_adsId%3Df46762d3-d712-42ab-9d92-a5d4b0faa933%26pageLoadId%3Dec02fbe8-9ccd-439b-8592-db78798c9fe8%26url%3Dhttps%253A%252F%252Fwww.klaviyo.com%252F%26tm%3Dgtmv2%26cookiesTest%3Dtrue%26liSync%3Dtrue",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://www.linkedin.com/px/li_sync?redirect=https%3A%2F%2Fpx.ads.linkedin.com%2Fcollect%3Fv%3D2%26fmt%3Djs%26pid%3D1110420%252C9004906%252C8078164%252C616460%26time%3D1791775223295%26li_adsId%3Df46762d3-d712-42ab-9d92-a5d4b0faa933%26pageLoadId%3Dec02fbe8-9ccd-439b-8592-db78798c9fe8%26url%3Dhttps%253A%252F%252Fwww.klaviyo.com%252F%26tm%3Dgtmv2%26cookiesTest%3Dtrue%26liSync%3Dtrue",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=18&expiry=1807500023&external_user_id=c69a7e08-df50-40a1-942b-b811502cf275",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://partners.tremorhub.com/sync?UIDM=c69a7e08-df50-40a1-942b-b811502cf275",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTQyODQmdGw9NDMyMDA=&piggybackCookie=c69a7e08-df50-40a1-942b-b811502cf275",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://pixel.rubiconproject.com/tap.php?v=1181926&nid=5578&put=c69a7e08-df50-40a1-942b-b811502cf275",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://www.facebook.com/tr/",
+      "method": "POST",
+      "resourceType": "ping"
+    },
+    {
+      "url": "https://connect.facebook.net/signals/config/936754686447501?v=2.9.415&r=stable&domain=www.klaviyo.com&hme=a4c28c8787325ac3f8f9eac68364f47df2a8c4266e43177443e5d7f6289c9774&ex_m=117%2C240%2C170%2C27%2C81%2C82%2C161%2C77%2C76%2C11%2C180%2C101%2C20%2C152%2C140%2C46%2C84%2C89%2C148%2C175%2C182%2C8%2C4%2C5%2C7%2C6%2C3%2C102%2C114%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C162%2C86%2C125%2C22%2C24%2C51%2C47%2C49%2C48%2C94%2C103%2C107%2C123%2C159%2C163%2C53%2C124%2C29%2C26%2C132%2C78%2C43%2C165%2C164%2C166%2C156%2C154%2C30%2C42%2C66%2C122%2C177%2C79%2C21%2C127%2C92%2C75%2C23%2C96%2C97%2C129%2C95%2C150%2C149%2C153%2C108%2C176%2C179%2C41%2C56%2C126%2C54%2C160%2C71%2C184%2C109%2C183%2C209%2C254%2C83%2C273%2C272%2C271%2C14%2C25%2C28%2C40%2C62%2C116%2C68%2C10%2C72%2C110%2C111%2C112%2C118%2C143%2C38%2C36%2C145%2C146%2C147%2C142%2C141%2C171%2C85%2C174%2C172%2C173%2C57%2C67%2C136%2C19%2C178%2C52%2C322%2C323%2C324%2C321%2C337%2C359%2C247%2C236%2C69%2C237%2C235%2C362%2C353%2C59%2C248%2C120%2C144%2C91%2C134%2C61%2C133%2C139%2C138%2C65%2C73%2C167%2C87%2C88%2C128%2C44%2C39%2C60%2C63%2C113%2C181%2C1%2C137%2C16%2C135%2C12%2C2%2C64%2C104%2C15%2C74%2C70%2C131%2C100%2C99%2C186%2C187%2C105%2C106%2C9%2C115%2C185%2C58%2C157%2C98%2C90%2C80%2C130%2C119%2C168%2C50%2C158%2C0%2C93%2C151%2C155%2C169%2C45%2C121%2C13%2C188%2C267%2C265%2C260%2C262%2C263%2C264%2C261%2C259%2C246%2C266%2C268%2C258%2C216%2C217%2C269%2C270%2C257%2C256%2C351%2C352%2C229%2C224%2C227%2C228%2C206%2C222%2C387%2C205%2C225%2C226%2C250%2C223%2C221%2C277%2C241%2C214%2C215%2C211%2C212%2C213%2C210%2C208%2C219%2C220%2C218%2C325%2C380%2C345%2C346%2C348%2C349%2C347%2C344%2C343%2C230%2C280%2C287%2C288%2C281%2C283%2C286%2C284%2C285%2C282%2C279%2C298%2C292%2C295%2C291%2C299%2C296%2C290%2C294%2C297%2C293%2C289%2C339%2C356",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://segments.company-target.com/log?vendor=liveramp&user_id=Xc1297OuvqiXNlGgTARKor2qAUWbZ2PFiUaKa8dLySL_uzWYE",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://secure.adnxs.com/getuidj",
+      "method": "GET",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://c.6sc.co/",
+      "method": "GET",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://ipv6.6sc.co/",
+      "method": "GET",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://tracking.intentsify.io/page-tracking/intentsify-klaviyo/https%3A%2F%2Fwww.klaviyo.com%2F",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://tr.capterra.com/static/vcvr.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=1110420%2C9004906%2C8078164%2C616460&time=1791775223295&li_adsId=f46762d3-d712-42ab-9d92-a5d4b0faa933&pageLoadId=ec02fbe8-9ccd-439b-8592-db78798c9fe8&url=https%3A%2F%2Fwww.klaviyo.com%2F&tm=gtmv2&cookiesTest=true&liSync=true",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/destination?id=AW-997744385&cx=c&gtm=4e6a72h1",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/destination?id=DC-11549644&cx=c&gtm=4e6a72h1",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/destination?id=DC-17021936&cx=c&gtm=4e6a72h1",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/878432221/?random=1791775223614&cv=11&fst=1791775223614&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a72h1v892653739za20ozb72424615zd72424615xecxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969&u_w=1600&u_h=1100&url=https%3A%2F%2Fwww.klaviyo.com%2F&rcb=7&frm=0&tiba=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1750846360.1791775222&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&_tu=CA&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/878432221/?random=1791775223614&cv=11&fst=1791775223614&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a72h1v892653739za20ozb72424615zd72424615xecxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969&u_w=1600&u_h=1100&url=https%3A%2F%2Fwww.klaviyo.com%2F&rcb=7&frm=0&tiba=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1750846360.1791775222&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&_tu=CA&data=event%3Dgtag.config&ept=68&gcp=5",
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=7&frm=0&apvc=0&auid=1750846360.1791775222&dt=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&tid=AW-878432221&en=page_view&dl=https%3A%2F%2Fwww.klaviyo.com%2F&scrsrc=www.googletagmanager.com&rnd=1849783647.1791775222&navt=n&npa=0&_tu=CA&gtm=45be6a72h1v892653739za20ozb72424615zd72424615xecxf1&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969&tft=1791775223632&tfd=3699&tids=AW-878432221&fmt=8",
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=1110420%2C9004906%2C8078164%2C616460&time=1791775223294&li_adsId=f46762d3-d712-42ab-9d92-a5d4b0faa933&pageLoadId=ec02fbe8-9ccd-439b-8592-db78798c9fe8&url=https%3A%2F%2Fwww.klaviyo.com%2F&tm=gtmv2&cookiesTest=true&liSync=true",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://c.6sc.co/refresh",
+      "method": "GET",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://tr.capterra.com/events/",
+      "method": "POST",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://px.mountain.com/st?ga_tracking_id=G-E2RS7HT946%3BUA-30451006-13%3BUA-30451006-26&ga_client_id=1639798227.1791775223&shpt=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&dcm_cid=s1791775223%24o1%24g0%24t1791775223%24j60%24l0%24h1540685150.undefined&available_ga=%5B%7B%22id%22%3A%22G-E2RS7HT946%22%2C%22sess_id%22%3A%221791775223%22%7D%5D&ga_info=%7B%22status%22%3A%22OK%22%2C%22ga_tracking_id%22%3A%22G-E2RS7HT946%3BUA-30451006-13%3BUA-30451006-26%22%2C%22ga_client_id%22%3A%221639798227.1791775223%22%2C%22shpt%22%3A%22Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM%22%2C%22dcm_cid%22%3A%22s1791775223%24o1%24g0%24t1791775223%24j60%24l0%24h1540685150.undefined%22%2C%22mntnis%22%3A%22%2FSqYg0g4Aa2dcsufJL7UvBjfpnPh6p%2B%2F%22%2C%22execution_workflow%22%3A%7B%22iteration%22%3A3%2C%22shpt%22%3A%22OK%22%2C%22dcm_cid%22%3A%22OK%22%7D%2C%22available_ga%22%3A%5B%7B%22id%22%3A%22G-E2RS7HT946%22%2C%22sess_id%22%3A%221791775223%22%7D%5D%7D&hardcoded_ga=G-E2RS7HT946%3BUA-30451006-13%3BUA-30451006-26&meta_tag_data=%5B%7B%22description.content%22%3A%22Klaviyo%20unifies%20AI-powered%20email%20marketing%20and%20SMS%20to%20drive%20growth%2C%20retention%2C%20and%20measurable%20results.%20Build%20personalized%2C%20omnichannel%20experiences%20across%20WhatsApp%2C%20ecommerce%2C%20and%20more%20with%20K%3AAI%20Agents.%22%7D%2C%7B%22robots.content%22%3A%22index%2C%20follow%22%7D%5D&dxver=4.0.0&shaid=32261&plh=https%3A%2F%2Fwww.klaviyo.com%2F&cb=78446632787436480term%3Dvalue&shadditional=googletagmanager%3Dtrue%2Cga4%3Dtrue",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://b.6sc.co/v1/beacon/img.gif?token=95734a6d9f0f80469ef8fc1221f9c4a5&svisitor=null&visitor=51ac8b9c-4f29-4460-8465-9a4dfc466160&session=5c012ca5-7e43-4c96-8e63-18101e6e6c43&event=a_pageload&q=%7B%22pageLoadTime%22%3A%22Mon%2C%2012%20Oct%202026%2003%3A20%3A23%20GMT%22%7D&isIframe=false&m=%7B%22description%22%3A%22Klaviyo%20unifies%20AI-powered%20email%20marketing%20and%20SMS%20to%20drive%20growth%2C%20retention%2C%20and%20measurable%20results.%20Build%20personalized%2C%20omnichannel%20experiences%20across%20WhatsApp%2C%20ecommerce%2C%20and%20more%20with%20K%3AAI%20Agents.%22%2C%22keywords%22%3A%22%22%2C%22title%22%3A%22Klaviyo%3A%20AI%20Email%20Marketing%20%26amp%3B%20SMS%20%7C%20B2C%20CRM%22%7D&cb=&r=&thirdParty=%7B%7D&v2=1&pageURL=https%3A%2F%2Fwww.klaviyo.com%2F&pageViewId=4e671247-326e-462c-8e79-4ae121c50ddc&an_uid=7660880096890107203&webTagId=2a417af6-5a13-4ed8-915d-3acba087d374&v=1.1.39",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://b.6sc.co/v1/beacon/img.gif?token=95734a6d9f0f80469ef8fc1221f9c4a5&svisitor=null&visitor=51ac8b9c-4f29-4460-8465-9a4dfc466160&session=5c012ca5-7e43-4c96-8e63-18101e6e6c43&event=ni%3AasyncSettingsAudit&q=%7B%22settings%22%3A%22%5B%7B%5C%22name%5C%22%3A%5C%22setToken%5C%22%2C%5C%22value%5C%22%3A%5C%2295734a6d9f0f80469ef8fc1221f9c4a5%5C%22%2C%5C%22dateTime%5C%22%3A%5C%22Mon%2C%2012%20Oct%202026%2003%3A20%3A23%20GMT%5C%22%2C%5C%22timeSincePageLoad%5C%22%3A%5C%220%5C%22%7D%2C%7B%5C%22name%5C%22%3A%5C%22disableCookies%5C%22%2C%5C%22value%5C%22%3A%5C%22false%5C%22%2C%5C%22dateTime%5C%22%3A%5C%22Mon%2C%2012%20Oct%202026%2003%3A20%3A23%20GMT%5C%22%2C%5C%22timeSincePageLoad%5C%22%3A%5C%220%5C%22%7D%2C%7B%5C%22name%5C%22%3A%5C%22setEpsilonKey%5C%22%2C%5C%22value%5C%22%3A%5C%2260afe18fbe5f5aa1441591c012a241080cfaf6cd%5C%22%2C%5C%22dateTime%5C%22%3A%5C%22Mon%2C%2012%20Oct%202026%2003%3A20%3A23%20GMT%5C%22%2C%5C%22timeSincePageLoad%5C%22%3A%5C%220%5C%22%7D%2C%7B%5C%22name%5C%22%3A%5C%22enableIPv6Ping%5C%22%2C%5C%22value%5C%22%3A%5C%22true%5C%22%2C%5C%22dateTime%5C%22%3A%5C%22Mon%2C%2012%20Oct%202026%2003%3A20%3A23%20GMT%5C%22%2C%5C%22timeSincePageLoad%5C%22%3A%5C%220%5C%22%7D%2C%7B%5C%22name%5C%22%3A%5C%22enableIgnorePageUrlHash%5C%22%2C%5C%22value%5C%22%3A%5C%22true%5C%22%2C%5C%22dateTime%5C%22%3A%5C%22Mon%2C%2012%20Oct%202026%2003%3A20%3A23%20GMT%5C%22%2C%5C%22timeSincePageLoad%5C%22%3A%5C%220%5C%22%7D%2C%7B%5C%22name%5C%22%3A%5C%22enableRetargeting%5C%22%2C%5C%22value%5C%22%3A%5C%22true%5C%22%2C%5C%22dateTime%5C%22%3A%5C%22Mon%2C%2012%20Oct%202026%2003%3A20%3A23%20GMT%5C%22%2C%5C%22timeSincePageLoad%5C%22%3A%5C%220%5C%22%7D%2C%7B%5C%22name%5C%22%3A%5C%22setWhiteListFields%5C%22%2C%5C%22value%5C%22%3A%5C%22%5B%5D%5C%22%2C%5C%22dateTime%5C%22%3A%5C%22Mon%2C%2012%20Oct%202026%2003%3A20%3A23%20GMT%5C%22%2C%5C%22timeSincePageLoad%5C%22%3A%5C%220%5C%22%7D%2C%7B%5C%22name%5C%22%3A%5C%22setCustomMetatags%5C%22%2C%5C%22value%5C%22%3A%5C%22%5B%5D%5C%22%2C%5C%22dateTime%5C%22%3A%5C%22Mon%2C%2012%20Oct%202026%2003%3A20%3A23%20GMT%5C%22%2C%5C%22timeSincePageLoad%5C%22%3A%5C%220%5C%22%7D%2C%7B%5C%22name%5C%22%3A%5C%22storeTagId%5C%22%2C%5C%22value%5C%22%3A%5C%222a417af6-5a13-4ed8-915d-3acba087d374%5C%22%2C%5C%22dateTime%5C%22%3A%5C%22Mon%2C%2012%20Oct%202026%2003%3A20%3A23%20GMT%5C%22%2C%5C%22timeSincePageLoad%5C%22%3A%5C%220%5C%22%7D%2C%7B%5C%22name%5C%22%3A%5C%22enableEventTracking%5C%22%2C%5C%22value%5C%22%3A%5C%22true%5C%22%2C%5C%22dateTime%5C%22%3A%5C%22Mon%2C%2012%20Oct%202026%2003%3A20%3A23%20GMT%5C%22%2C%5C%22timeSincePageLoad%5C%22%3A%5C%220%5C%22%7D%2C%7B%5C%22name%5C%22%3A%5C%22setCompanyDetailsExpiration%5C%22%2C%5C%22value%5C%22%3A%5C%22true%5C%22%2C%5C%22dateTime%5C%22%3A%5C%22Mon%2C%2012%20Oct%202026%2003%3A20%3A23%20GMT%5C%22%2C%5C%22timeSincePageLoad%5C%22%3A%5C%220%5C%22%7D%2C%7B%5C%22name%5C%22%3A%5C%22enableMapCookieCapture%5C%22%2C%5C%22value%5C%22%3A%5C%22true%5C%22%2C%5C%22dateTime%5C%22%3A%5C%22Mon%2C%2012%20Oct%202026%2003%3A20%3A23%20GMT%5C%22%2C%5C%22timeSincePageLoad%5C%22%3A%5C%220%5C%22%7D%2C%7B%5C%22name%5C%22%3A%5C%22enableTimeTracking%5C%22%2C%5C%22value%5C%22%3A%5C%22true%5C%22%2C%5C%22dateTime%5C%22%3A%5C%22Mon%2C%2012%20Oct%202026%2003%3A20%3A23%20GMT%5C%22%2C%5C%22timeSincePageLoad%5C%22%3A%5C%220%5C%22%7D%2C%7B%5C%22name%5C%22%3A%5C%22enableCompanyDetails%5C%22%2C%5C%22value%5C%22%3A%5C%22%5Btrue%2Cnull%2C3%5D%5C%22%2C%5C%22dateTime%5C%22%3A%5C%22Mon%2C%2012%20Oct%202026%2003%3A20%3A23%20GMT%5C%22%2C%5C%22timeSincePageLoad%5C%22%3A%5C%220%5C%22%7D%5D%22%7D&isIframe=false&m=%7B%22description%22%3A%22Klaviyo%20unifies%20AI-powered%20email%20marketing%20and%20SMS%20to%20drive%20growth%2C%20retention%2C%20and%20measurable%20results.%20Build%20personalized%2C%20omnichannel%20experiences%20across%20WhatsApp%2C%20ecommerce%2C%20and%20more%20with%20K%3AAI%20Agents.%22%2C%22keywords%22%3A%22%22%2C%22title%22%3A%22Klaviyo%3A%20AI%20Email%20Marketing%20%26amp%3B%20SMS%20%7C%20B2C%20CRM%22%7D&cb=&r=&thirdParty=%7B%7D&v2=1&pageURL=https%3A%2F%2Fwww.klaviyo.com%2F&pageViewId=4e671247-326e-462c-8e79-4ae121c50ddc&an_uid=7660880096890107203&webTagId=2a417af6-5a13-4ed8-915d-3acba087d374&v=1.1.39",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://c.6sc.co/?m=1",
+      "method": "GET",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://analytics.tiktok.com/api/v2/pixel/act",
+      "method": "POST",
+      "resourceType": "ping"
+    },
+    {
+      "url": "https://www.google.com/pagead/1p-user-list/878432221/?random=1791775223614&cv=11&fst=1791774000000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a72h1v892653739za20ozb72424615zd72424615xecxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969&u_w=1600&u_h=1100&url=https%3A%2F%2Fwww.klaviyo.com%2F&rcb=7&frm=0&tiba=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1750846360.1791775222&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&_tu=CA&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4QEAQM4h3NgLqPfndPtmepJUYRudQCf4truqdQPprIi30DlphWammIZjmEyQE_BJ_2FqbHieyMaSZIGOwBUvmoQsu8tT_F90ZNxgc4N4xaYYMh8WcV-MYSWy_iwBaxbBMNGwr51SzUxEDwXbfFSpO0sRiQp25F1kIb3xmGF7T-yk0hRhfGGsXHxO9zDkutEYOZOn6Wf3GaTFzjibhG6scTU1fq7AiKusP9-UAOeygQJEC96nrMb017nz5NXJs_FN_MAnDs9i_mHp5y5vAiTepkskSboEU-wsn3qaQNJg_x9awJQ&random=1852774739&rmt_tld=0&ipr=y",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://www.facebook.com/tr/",
+      "method": "POST",
+      "resourceType": "ping"
+    },
+    {
+      "url": "https://connect.facebook.net/signals/config/976271791786953?v=2.9.415&r=stable&domain=www.klaviyo.com&hme=a4c28c8787325ac3f8f9eac68364f47df2a8c4266e43177443e5d7f6289c9774&ex_m=117%2C240%2C170%2C27%2C81%2C82%2C161%2C77%2C76%2C11%2C180%2C101%2C20%2C152%2C140%2C46%2C84%2C89%2C148%2C175%2C182%2C8%2C4%2C5%2C7%2C6%2C3%2C102%2C114%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C162%2C86%2C125%2C22%2C24%2C51%2C47%2C49%2C48%2C94%2C103%2C107%2C123%2C159%2C163%2C53%2C124%2C29%2C26%2C132%2C78%2C43%2C165%2C164%2C166%2C156%2C154%2C30%2C42%2C66%2C122%2C177%2C79%2C21%2C127%2C92%2C75%2C23%2C96%2C97%2C129%2C95%2C150%2C149%2C153%2C108%2C176%2C179%2C41%2C56%2C126%2C54%2C160%2C71%2C184%2C109%2C183%2C209%2C254%2C83%2C273%2C272%2C271%2C14%2C25%2C28%2C40%2C62%2C116%2C68%2C10%2C72%2C110%2C111%2C112%2C118%2C143%2C38%2C36%2C145%2C146%2C147%2C142%2C141%2C171%2C85%2C174%2C172%2C173%2C57%2C67%2C136%2C19%2C178%2C52%2C322%2C323%2C324%2C321%2C337%2C359%2C247%2C236%2C69%2C237%2C235%2C362%2C353%2C59%2C248%2C120%2C144%2C91%2C134%2C61%2C133%2C139%2C138%2C65%2C73%2C167%2C87%2C88%2C128%2C44%2C39%2C60%2C63%2C113%2C181%2C1%2C137%2C16%2C135%2C12%2C2%2C64%2C104%2C15%2C74%2C70%2C131%2C100%2C99%2C186%2C187%2C105%2C106%2C9%2C115%2C185%2C58%2C157%2C98%2C90%2C80%2C130%2C119%2C168%2C50%2C158%2C0%2C93%2C151%2C155%2C169%2C45%2C121%2C13%2C188%2C267%2C265%2C260%2C262%2C263%2C264%2C261%2C259%2C246%2C266%2C268%2C258%2C216%2C217%2C269%2C270%2C257%2C256%2C351%2C352%2C229%2C224%2C227%2C228%2C206%2C222%2C387%2C205%2C225%2C226%2C250%2C223%2C221%2C277%2C241%2C214%2C215%2C211%2C212%2C213%2C210%2C208%2C219%2C220%2C218%2C325%2C380%2C345%2C346%2C348%2C349%2C347%2C344%2C343%2C230%2C280%2C287%2C288%2C281%2C283%2C286%2C284%2C285%2C282%2C279%2C298%2C292%2C295%2C291%2C299%2C296%2C290%2C294%2C297%2C293%2C289%2C339%2C356%2C275%2C245",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://epsilon.6sense.com/v3/company/details",
+      "method": "GET",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://a.usbrowserspeed.com/cs?pid=5476ad7fb254ae8ddffd9ee34e77cfbb0c895c04783f2a615f8a1341878ee532&puid=ac76bafb-dc43-4922-ad82-fa175b73c58a-intentsify-klaviyo-06d1358e-86f4-45f1-a107-7fb1fb67be09",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://bite.australiarevival.com/mon",
+      "method": "POST",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://gs.mountain.com/gs",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/997744385/?random=1791775223809&cv=11&fst=1791775223809&bg=ffffff&guid=ON&async=1&gtm=45be6a72h1z872424615za20gzb72424615zd72424615xeaxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969&u_w=1600&u_h=1100&url=https%3A%2F%2Fwww.klaviyo.com%2F&rcb=4&frm=0&tiba=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1750846360.1791775222&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=9&rfmt=3&fmt=4",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/997744385/?random=1791775223809&cv=11&fst=1791775223809&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6a72h1z872424615za20gzb72424615zd72424615xeaxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969&u_w=1600&u_h=1100&url=https%3A%2F%2Fwww.klaviyo.com%2F&rcb=4&frm=0&tiba=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1750846360.1791775222&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=68&gcp=5",
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=4&frm=0&apvc=0&ae=g&auid=1750846360.1791775222&dt=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&tid=AW-997744385&dl=https%3A%2F%2Fwww.klaviyo.com%2F&scrsrc=www.googletagmanager.com&rnd=1849783647.1791775222&navt=n&npa=0&ep.ads_data_redaction=0&_tu=CA&gtm=45be6a72h1z872424615za20gzb72424615zd72424615xeaxf1&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969&tft=1791775223843&tfd=3910&tids=AW-997744385&fmt=8",
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://insight.adsrvr.org/track/realtimeconversion",
+      "method": "POST",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://www.facebook.com/tr/",
+      "method": "POST",
+      "resourceType": "ping"
+    },
+    {
+      "url": "https://capi-automation.s3.us-east-2.amazonaws.com/public/client_js/capiParamBuilder/clientParamBuilder.bundle.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://bite.australiarevival.com/mon",
+      "method": "POST",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://px.mountain.com/st?ga_tracking_id=G-E2RS7HT946%3BUA-30451006-13%3BUA-30451006-26&ga_client_id=1639798227.1791775223&shpt=Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM&dcm_cid=s1791775223%24o1%24g0%24t1791775223%24j60%24l0%24h1540685150.undefined&available_ga=%5B%7B%22id%22%3A%22G-E2RS7HT946%22%2C%22sess_id%22%3A%221791775223%22%7D%5D&ga_info=%7B%22status%22%3A%22OK%22%2C%22ga_tracking_id%22%3A%22G-E2RS7HT946%3BUA-30451006-13%3BUA-30451006-26%22%2C%22ga_client_id%22%3A%221639798227.1791775223%22%2C%22shpt%22%3A%22Klaviyo%3A%20AI%20Email%20Marketing%20%26%20SMS%20%7C%20B2C%20CRM%22%2C%22dcm_cid%22%3A%22s1791775223%24o1%24g0%24t1791775223%24j60%24l0%24h1540685150.undefined%22%2C%22mntnis%22%3A%22%2FSqYg0g4Aa2dcsufJL7UvBjfpnPh6p%2B%2F%22%2C%22execution_workflow%22%3A%7B%22iteration%22%3A3%2C%22shpt%22%3A%22OK%22%2C%22dcm_cid%22%3A%22OK%22%7D%2C%22available_ga%22%3A%5B%7B%22id%22%3A%22G-E2RS7HT946%22%2C%22sess_id%22%3A%221791775223%22%7D%5D%7D&hardcoded_ga=G-E2RS7HT946%3BUA-30451006-13%3BUA-30451006-26&meta_tag_data=%5B%7B%22description.content%22%3A%22Klaviyo%20unifies%20AI-powered%20email%20marketing%20and%20SMS%20to%20drive%20growth%2C%20retention%2C%20and%20measurable%20results.%20Build%20personalized%2C%20omnichannel%20experiences%20across%20WhatsApp%2C%20ecommerce%2C%20and%20more%20with%20K%3AAI%20Agents.%22%7D%2C%7B%22robots.content%22%3A%22index%2C%20follow%22%7D%5D&dxver=4.0.0&shaid=32261&plh=https%3A%2F%2Fwww.klaviyo.com%2F&shadditional=googletagmanager%3Dtrue%2Cga4%3Dtrue&cb=1791775223726632&shguid=2cb42b2c-d826-3b05-b1bb-1f086b787321&shgts=1791775223918",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://analytics.tiktok.com/api/v2/pixel/act",
+      "method": "POST",
+      "resourceType": "ping"
+    },
+    {
+      "url": "https://analytics.tiktok.com/api/v2/monitor",
+      "method": "POST",
+      "resourceType": "ping"
+    },
+    {
+      "url": "https://ad.doubleclick.net/activity;src=11549644;type=gv;cat=allsi0;rcb=6;ord=4351569791292;npa=0;auiddc=1750846360.1791775222;u4=1639798227.1791775223;u8=www.klaviyo.com%2F;uaa=x86;uab=64;uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6a72h1v9181800597z872424615za20gzb72424615zd72424615xeaxf1;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=3;tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969;epver=2;dc_random=1791775224_UDeUiUfXmhO_CbuUJFYhzOe57GfcEKeXfg;~oref=https%3A%2F%2Fwww.klaviyo.com%2F?",
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://11549644.fls.doubleclick.net/activityi;src=11549644;type=gv;cat=allsi0;rcb=6;ord=4351569791292;npa=0;auiddc=1750846360.1791775222;u4=1639798227.1791775223;u8=www.klaviyo.com%2F;uaa=x86;uab=64;uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6a72h1v9181800597z872424615za20gzb72424615zd72424615xeaxf1;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=2;tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969;epver=2;dc_random=1791775224_UDeUiUfXmhO_CbuUJFYhzOe57GfcEKeXfg;_dc_test=1;~oref=https%3A%2F%2Fwww.klaviyo.com%2F?",
+      "method": "GET",
+      "resourceType": "document"
+    },
+    {
+      "url": "https://ad.doubleclick.net/activity;src=11549644;type=gv;cat=prospect;rcb=6;ord=1;num=389467172792;npa=0;auiddc=1750846360.1791775222;u4=undefined;uaa=x86;uab=64;uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;user_data_mode=m;_tu=KJA;gtm=45fe6a72h1v9181800597z872424615za20gzb72424615zd72424615xeaxf1;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=3;tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969;epver=2;em=tv.1;dc_random=1791775224_kLrSQxFa_MFsXcfojeGX_BsLmNgP0xEyoQ;~oref=https%3A%2F%2Fwww.klaviyo.com%2F?",
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://11549644.fls.doubleclick.net/activityi;src=11549644;type=gv;cat=prospect;rcb=6;ord=1;num=389467172792;npa=0;auiddc=1750846360.1791775222;u4=undefined;uaa=x86;uab=64;uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;user_data_mode=m;_tu=KJA;gtm=45fe6a72h1v9181800597z872424615za20gzb72424615zd72424615xeaxf1;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=2;tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969;epver=2;em=tv.1;dc_random=1791775224_kLrSQxFa_MFsXcfojeGX_BsLmNgP0xEyoQ;_dc_test=1;~oref=https%3A%2F%2Fwww.klaviyo.com%2F?",
+      "method": "GET",
+      "resourceType": "document"
+    },
+    {
+      "url": "https://ad.doubleclick.net/activity;src=17021936;type=pagev0;cat=tmrw-0;rcb=17;ord=3412162048641;npa=0;auiddc=1750846360.1791775222;uaa=x86;uab=64;uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6a72h1v9252933875z872424615za20gzb72424615zd72424615xeaxf1;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=3;tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~121284210~123227969;epver=2;dc_random=1791775224_i5wjrnU2ebOE_wZ_P8OAg-gARIx4dn10ig;~oref=https%3A%2F%2Fwww.klaviyo.com%2F?",
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://17021936.fls.doubleclick.net/activityi;src=17021936;type=pagev0;cat=tmrw-0;rcb=17;ord=3412162048641;npa=0;auiddc=1750846360.1791775222;uaa=x86;uab=64;uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6a72h1v9252933875z872424615za20gzb72424615zd72424615xeaxf1;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~121284210~123227969;epver=2;dc_random=1791775224_i5wjrnU2ebOE_wZ_P8OAg-gARIx4dn10ig;_dc_test=1;~oref=https%3A%2F%2Fwww.klaviyo.com%2F?",
+      "method": "GET",
+      "resourceType": "document"
+    },
+    {
+      "url": "https://11549644.fls.doubleclick.net/activityi;dc_pre=CPbvge7Cs5cDFZoRjgUdgCQtrg;src=11549644;type=gv;cat=allsi0;rcb=6;ord=4351569791292;npa=0;auiddc=1750846360.1791775222;u4=1639798227.1791775223;u8=www.klaviyo.com%2F;uaa=x86;uab=64;uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6a72h1v9181800597z872424615za20gzb72424615zd72424615xeaxf1;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=2;tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969;epver=2;dc_random=1791775224_UDeUiUfXmhO_CbuUJFYhzOe57GfcEKeXfg;_dc_test=1;~oref=https%3A%2F%2Fwww.klaviyo.com%2F?",
+      "method": "GET",
+      "resourceType": "document"
+    },
+    {
+      "url": "https://11549644.fls.doubleclick.net/activityi;dc_pre=CPKSgu7Cs5cDFbc4jgUd6PI7aw;src=11549644;type=gv;cat=prospect;rcb=6;ord=1;num=389467172792;npa=0;auiddc=1750846360.1791775222;u4=undefined;uaa=x86;uab=64;uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;user_data_mode=m;_tu=KJA;gtm=45fe6a72h1v9181800597z872424615za20gzb72424615zd72424615xeaxf1;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=2;tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969;epver=2;em=tv.1;dc_random=1791775224_kLrSQxFa_MFsXcfojeGX_BsLmNgP0xEyoQ;_dc_test=1;~oref=https%3A%2F%2Fwww.klaviyo.com%2F?",
+      "method": "GET",
+      "resourceType": "document"
+    },
+    {
+      "url": "https://www.googleadservices.com/pagead/conversion.js",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://adservice.google.com/ddm/fls/z/dc_pre=CPbvge7Cs5cDFZoRjgUdgCQtrg;src=11549644;type=gv;cat=allsi0;rcb=6;ord=4351569791292;npa=0;auiddc=*;u4=1639798227.1791775223;u8=www.klaviyo.com%2F;uaa=x86;uab=64;uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6a72h1v9181800597z872424615za20gzb72424615zd72424615xeaxf1;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=2;tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969;epver=2;dc_random=1791775224_UDeUiUfXmhO_CbuUJFYhzOe57GfcEKeXfg;_dc_test=1;~oref=https%3A%2F%2Fwww.klaviyo.com%2F",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://adservice.google.com/ddm/fls/z/dc_pre=CPKSgu7Cs5cDFbc4jgUd6PI7aw;src=11549644;type=gv;cat=prospect;rcb=6;ord=1;num=389467172792;npa=0;auiddc=*;u4=undefined;uaa=x86;uab=64;uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;user_data_mode=m;_tu=KJA;gtm=45fe6a72h1v9181800597z872424615za20gzb72424615zd72424615xeaxf1;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=2;tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969;epver=2;em=tv.*;dc_random=1791775224_kLrSQxFa_MFsXcfojeGX_BsLmNgP0xEyoQ;_dc_test=1;~oref=https%3A%2F%2Fwww.klaviyo.com%2F",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://17021936.fls.doubleclick.net/activityi;dc_pre=CIalhu7Cs5cDFT4eaQkdveYnLA;src=17021936;type=pagev0;cat=tmrw-0;rcb=17;ord=3412162048641;npa=0;auiddc=1750846360.1791775222;uaa=x86;uab=64;uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6a72h1v9252933875z872424615za20gzb72424615zd72424615xeaxf1;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~121284210~123227969;epver=2;dc_random=1791775224_i5wjrnU2ebOE_wZ_P8OAg-gARIx4dn10ig;_dc_test=1;~oref=https%3A%2F%2Fwww.klaviyo.com%2F?",
+      "method": "GET",
+      "resourceType": "document"
+    },
+    {
+      "url": "https://www.googleadservices.com/pagead/conversion/10862913514/?random=1791775224238&cv=9&fst=1791775224238&num=1&npa=1&label=eAm7CITglpYYEOrP67so&guid=ON&resp=GooglemKTybQhCsO&eid=375603260%2C466465926%2C512247839%2C658953496&u_h=1100&u_w=1600&ig=1&auid=1750846360.1791775222&frm=2&url=https%3A%2F%2F11549644.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCPbvge7Cs5cDFZoRjgUdgCQtrg%3Bsrc%3D11549644%3Btype%3Dgv%3Bcat%3Dallsi0%3Brcb%3D6%3Bord%3D4351569791292%3Bnpa%3D0%3Bauiddc%3D1750846360.1791775222%3Bu4%3D1639798227.1791775223%3Bu8%3Dwww.klaviyo.com%252F%3Buaa%3Dx86%3Buab%3D64%3Buafvl%3DChromium%253B140.0.7339.16%257CNot%25253DA%25253FBrand%253B24.0.0.0%257CHeadlessChrome%253B140.0.7339.16%3Buamb%3D0%3Buam%3D%3Buap%3DmacOS%3Buapv%3D10_15_7%3Buaw%3D0%3Bpscdl%3Dnoapi%3Bfrm%3D0%3B_tu%3DKFA%3Bgtm%3D45fe6a72h1v9181800597z872424615za20gzb72424615zd72424615xeaxf1%3Bgcs%3DG111%3Bgcd%3D13t3t3t3t5l1%3Bdma%3D0%3Bdc_fmt%3D2%3Btag_ex&ref=https%3A%2F%2Fwww.klaviyo.com%2F&top=https%3A%2F%2Fwww.klaviyo.com%2F&capi=1&hn=www.googleadservices.com&rfmt=3&fmt=4",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.googleadservices.com/pagead/conversion/10847908630/?random=1791775224244&cv=9&fst=1791775224238&num=2&npa=1&label=fm9pCMTYlpYYEJbm17Qo&guid=ON&resp=GooglemKTybQhCsO&eid=375603261%2C466465926%2C512247838%2C658953495&u_h=1100&u_w=1600&ig=1&auid=1750846360.1791775222&frm=2&url=https%3A%2F%2F11549644.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCPbvge7Cs5cDFZoRjgUdgCQtrg%3Bsrc%3D11549644%3Btype%3Dgv%3Bcat%3Dallsi0%3Brcb%3D6%3Bord%3D4351569791292%3Bnpa%3D0%3Bauiddc%3D1750846360.1791775222%3Bu4%3D1639798227.1791775223%3Bu8%3Dwww.klaviyo.com%252F%3Buaa%3Dx86%3Buab%3D64%3Buafvl%3DChromium%253B140.0.7339.16%257CNot%25253DA%25253FBrand%253B24.0.0.0%257CHeadlessChrome%253B140.0.7339.16%3Buamb%3D0%3Buam%3D%3Buap%3DmacOS%3Buapv%3D10_15_7%3Buaw%3D0%3Bpscdl%3Dnoapi%3Bfrm%3D0%3B_tu%3DKFA%3Bgtm%3D45fe6a72h1v9181800597z872424615za20gzb72424615zd72424615xeaxf1%3Bgcs%3DG111%3Bgcd%3D13t3t3t3t5l1%3Bdma%3D0%3Bdc_fmt%3D2%3Btag_ex&ref=https%3A%2F%2Fwww.klaviyo.com%2F&top=https%3A%2F%2Fwww.klaviyo.com%2F&capi=1&hn=www.googleadservices.com&uaa=x86&uab=64&uam=&uap=macOS&uapv=10_15_7&uaw=0&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&rfmt=3&fmt=4",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://www.googleadservices.com/pagead/conversion/10862944157/?random=1791775224246&cv=9&fst=1791775224238&num=3&npa=1&label=DeQHCNLClpYYEJ2_7bso&guid=ON&resp=GooglemKTybQhCsO&eid=375603260%2C466465925%2C512247838%2C658953496&u_h=1100&u_w=1600&ig=1&auid=1750846360.1791775222&frm=2&url=https%3A%2F%2F11549644.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCPbvge7Cs5cDFZoRjgUdgCQtrg%3Bsrc%3D11549644%3Btype%3Dgv%3Bcat%3Dallsi0%3Brcb%3D6%3Bord%3D4351569791292%3Bnpa%3D0%3Bauiddc%3D1750846360.1791775222%3Bu4%3D1639798227.1791775223%3Bu8%3Dwww.klaviyo.com%252F%3Buaa%3Dx86%3Buab%3D64%3Buafvl%3DChromium%253B140.0.7339.16%257CNot%25253DA%25253FBrand%253B24.0.0.0%257CHeadlessChrome%253B140.0.7339.16%3Buamb%3D0%3Buam%3D%3Buap%3DmacOS%3Buapv%3D10_15_7%3Buaw%3D0%3Bpscdl%3Dnoapi%3Bfrm%3D0%3B_tu%3DKFA%3Bgtm%3D45fe6a72h1v9181800597z872424615za20gzb72424615zd72424615xeaxf1%3Bgcs%3DG111%3Bgcd%3D13t3t3t3t5l1%3Bdma%3D0%3Bdc_fmt%3D2%3Btag_ex&ref=https%3A%2F%2Fwww.klaviyo.com%2F&top=https%3A%2F%2Fwww.klaviyo.com%2F&capi=1&hn=www.googleadservices.com&uaa=x86&uab=64&uam=&uap=macOS&uapv=10_15_7&uaw=0&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&rfmt=3&fmt=4",
+      "method": "GET",
+      "resourceType": "script"
+    },
+    {
+      "url": "https://ad.doubleclick.net/activity;dc_pre=CIzf_O3Cs5cDFSIKjgUdgNcSQw;src=11549644;type=gv;cat=prospect;rcb=6;ord=1;num=389467172792;npa=0;auiddc=1750846360.1791775222;u4=undefined;uaa=x86;uab=64;uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;user_data_mode=m;_tu=KJA;gtm=45fe6a72h1v9181800597z872424615za20gzb72424615zd72424615xeaxf1;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=3;tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969;epver=2;em=tv.1;dc_random=1791775224_kLrSQxFa_MFsXcfojeGX_BsLmNgP0xEyoQ;~oref=https%3A%2F%2Fwww.klaviyo.com%2F?",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/gmp/conversion/_dc_unique_id=1861893128667959900;_dc_ptd=ChAI8Oes1gYQsr_rieb946MTEh8A9_geMcccK38cj-oNFjb0HgEkHtOKi2Qj11ZKwkCK;_dc_time=1791775224;cid=CAQS4QEAQM4h3PCL7F1_Q77Uyc9vtmTFKDg1e43zZZPilACdn_8_4JILhXbC4XXQQmllBlC6nhpgCDRkL23R4T9xGWuZBTzj33OQ1NsWd1kMt0oCmmsW_y6XTQqm4PZFre6etIlkIu_bYCBlQbjIbBaHIUunMhVi3cwWzareKrhV2AzAmjDO-k9NWr9-L9grq7HcjHmAqn4pCtYfWW_P3hZw74p6JALIeaNImGZnx6JZgGDJImIp0EHNimGMt8JOiNYZyq_LCsuxdDddfc9Bfn9nsYAC6RCMrbZiZHM2A_twpPDwsa4;eps=AHas8cDDGgbWkwkIURywh89Yv0g_rfVzji9uGfLgKRdRXEoFwBCkmwcIKfY2AEmSxE2m2Rnxh_9szvzV6_ILH57LY-yfRDXU8hioLSopbOakQqCz4Q;dc_pre=CIzf_O3Cs5cDFSIKjgUdgNcSQw;src=11549644;type=gv;cat=prospect;rcb=6;ord=1;num=389467172792;npa=0;auiddc=1750846360.1791775222;u4=undefined;uaa=x86;uab=64;uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;user_data_mode=m;_tu=KJA;gtm=45fe6a72h1v9181800597z872424615za20gzb72424615zd72424615xeaxf1;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=3;tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969;epver=2;em=tv.1;dc_random=1791775224_kLrSQxFa_MFsXcfojeGX_BsLmNgP0xEyoQ;~oref=https%3A%2F%2Fwww.klaviyo.com%2F?",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://adservice.google.com/ddm/fls/z/dc_pre=CIalhu7Cs5cDFT4eaQkdveYnLA;src=17021936;type=pagev0;cat=tmrw-0;rcb=17;ord=3412162048641;npa=0;auiddc=*;uaa=x86;uab=64;uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6a72h1v9252933875z872424615za20gzb72424615zd72424615xeaxf1;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~121284210~123227969;epver=2;dc_random=1791775224_i5wjrnU2ebOE_wZ_P8OAg-gARIx4dn10ig;_dc_test=1;~oref=https%3A%2F%2Fwww.klaviyo.com%2F",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://ad.doubleclick.net/activity;dc_pre=CPPL_O3Cs5cDFVb4fgkdMpwssQ;src=11549644;type=gv;cat=allsi0;rcb=6;ord=4351569791292;npa=0;auiddc=1750846360.1791775222;u4=1639798227.1791775223;u8=www.klaviyo.com%2F;uaa=x86;uab=64;uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6a72h1v9181800597z872424615za20gzb72424615zd72424615xeaxf1;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=3;tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969;epver=2;dc_random=1791775224_UDeUiUfXmhO_CbuUJFYhzOe57GfcEKeXfg;~oref=https%3A%2F%2Fwww.klaviyo.com%2F?",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/gmp/conversion/_dc_unique_id=5253833530200199124;_dc_ptd=ChAI8Oes1gYQsr_rieb946MTEh8A9_geMe0fP68RGi1oXbEOq-SO9P0GEQx_yxvuNwmq;_dc_time=1791775224;cid=CAQS4QEAQM4h3KPCInjrW2LHg2qTmAkP47-oZY0KEDFdw_CT_GeOfPoNz0loywaPfhuCuAlK70R0NbI1VhaMfDRAAre4q68XlxY-xQUbzH-hYcmoklyL47egLdEtmJxen-Mc2vcAsPtpDIkXoYgEtuRBiq7XWvcChQzbHaNgbyB64LQaLN9pxi4asLo_3uPe_y2Zw7TIpmlRU5j7XY9kN3FR__pelZZvev7Q6By20vYduW7cAKHCyf1uOc9mp8TnbXvF1XWBoHAKcaDo2xJfX-klABTrUYyOAnIW9WdI18S__AkJHME;eps=AHas8cCJN2TJGLraJKc7fCPqjObIjXZSv4BSF6VeKSHX4n9cv7wv3640ELpJUs8C1QOgig1KiqvU-fkYY0YYozkARquL5qggmtn5UI0762Veh-F5lA;dc_pre=CPPL_O3Cs5cDFVb4fgkdMpwssQ;src=11549644;type=gv;cat=allsi0;rcb=6;ord=4351569791292;npa=0;auiddc=1750846360.1791775222;u4=1639798227.1791775223;u8=www.klaviyo.com%2F;uaa=x86;uab=64;uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6a72h1v9181800597z872424615za20gzb72424615zd72424615xeaxf1;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=3;tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~123227969;epver=2;dc_random=1791775224_UDeUiUfXmhO_CbuUJFYhzOe57GfcEKeXfg;~oref=https%3A%2F%2Fwww.klaviyo.com%2F?",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10862913514/?random=569908558&cv=9&fst=1791775224238&num=1&npa=1&label=eAm7CITglpYYEOrP67so&guid=ON&resp=GooglemKTybQhCsO&eid=375603260%2C466465926%2C512247839%2C658953496&u_h=1100&u_w=1600&ig=1&auid=1750846360.1791775222&frm=2&url=https%3A%2F%2F11549644.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCPbvge7Cs5cDFZoRjgUdgCQtrg%3Bsrc%3D11549644%3Btype%3Dgv%3Bcat%3Dallsi0%3Brcb%3D6%3Bord%3D4351569791292%3Bnpa%3D0%3Bauiddc%3D1750846360.1791775222%3Bu4%3D1639798227.1791775223%3Bu8%3Dwww.klaviyo.com%252F%3Buaa%3Dx86%3Buab%3D64%3Buafvl%3DChromium%253B140.0.7339.16%257CNot%25253DA%25253FBrand%253B24.0.0.0%257CHeadlessChrome%253B140.0.7339.16%3Buamb%3D0%3Buam%3D%3Buap%3DmacOS%3Buapv%3D10_15_7%3Buaw%3D0%3Bpscdl%3Dnoapi%3Bfrm%3D0%3B_tu%3DKFA%3Bgtm%3D45fe6a72h1v9181800597z872424615za20gzb72424615zd72424615xeaxf1%3Bgcs%3DG111%3Bgcd%3D13t3t3t3t5l1%3Bdma%3D0%3Bdc_fmt%3D2%3Btag_ex&ref=https%3A%2F%2Fwww.klaviyo.com%2F&top=https%3A%2F%2Fwww.klaviyo.com%2F&capi=1&hn=www.googleadservices.com&fmt=3&ct_cookie_present=false&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCPTasQII4uqxAgjo7rECCJLrsQIIyeOxAgiX1LECCMnbsQIIzeaxAgim3bECCLDesQIIgNuxAgjN4bECSixldmVudC1zb3VyY2UsIHRyaWdnZXIsIG5vdC1uYXZpZ2F0aW9uLXNvdXJjZVoDCgEBYgQKAgID&cerd=CgzI7L4tmIG_LZ3ptzg&fsk=ChAI8Oes1gYQhOTtsLrDkd5MEiwA8j44--vKz8TudF6oa7HWSyRuJVYbmI2Uaqpd4DvNjNQFhDE_V5dqDMKbChoC6DM&pscrd=IhMI4KuJ7sKzlwMV_eB-CR2g2hOtOiVodHRwczovLzExNTQ5NjQ0LmZscy5kb3VibGVjbGljay5uZXQvQldDaEFJOE9lczFnWVF3cUs1NVBMQjFyOVRFaTBBZDNYYnJXa0VaSVFQYllnazMwMTFqaTVjZ05nc3FFeVdPdmxtY1BUSUdJQkc5aWVxXzVkX2N1ZEN3bWt6DAgJYggIABAAGAAgAA",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10847908630/?random=624227857&cv=9&fst=1791775224238&num=2&npa=1&label=fm9pCMTYlpYYEJbm17Qo&guid=ON&resp=GooglemKTybQhCsO&eid=375603261%2C466465926%2C512247838%2C658953495&u_h=1100&u_w=1600&ig=1&auid=1750846360.1791775222&frm=2&url=https%3A%2F%2F11549644.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCPbvge7Cs5cDFZoRjgUdgCQtrg%3Bsrc%3D11549644%3Btype%3Dgv%3Bcat%3Dallsi0%3Brcb%3D6%3Bord%3D4351569791292%3Bnpa%3D0%3Bauiddc%3D1750846360.1791775222%3Bu4%3D1639798227.1791775223%3Bu8%3Dwww.klaviyo.com%252F%3Buaa%3Dx86%3Buab%3D64%3Buafvl%3DChromium%253B140.0.7339.16%257CNot%25253DA%25253FBrand%253B24.0.0.0%257CHeadlessChrome%253B140.0.7339.16%3Buamb%3D0%3Buam%3D%3Buap%3DmacOS%3Buapv%3D10_15_7%3Buaw%3D0%3Bpscdl%3Dnoapi%3Bfrm%3D0%3B_tu%3DKFA%3Bgtm%3D45fe6a72h1v9181800597z872424615za20gzb72424615zd72424615xeaxf1%3Bgcs%3DG111%3Bgcd%3D13t3t3t3t5l1%3Bdma%3D0%3Bdc_fmt%3D2%3Btag_ex&ref=https%3A%2F%2Fwww.klaviyo.com%2F&top=https%3A%2F%2Fwww.klaviyo.com%2F&capi=1&hn=www.googleadservices.com&uaa=x86&uab=64&uam=&uap=macOS&uapv=10_15_7&uaw=0&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&fmt=3&ct_cookie_present=false&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCPTasQII4uqxAgjo7rECCJLrsQIIyeOxAgiX1LECCMnbsQIIzeaxAgim3bECCLDesQIIgNuxAgjN4bECSidldmVudC1zb3VyY2UsIHRyaWdnZXI7bmF2aWdhdGlvbi1zb3VyY2VaAwoBAWIECgICAw&cerd=CgyCsL4tueu-LZ3ptzg&fsk=ChAI8Oes1gYQhOTtsLrDkd5MEiwA8j44-5r0WK0xYScTpMSJb8H_XkprtTh5ASZuY0FaHJdpC62K8B-K3QJ1lRoCa9k&pscrd=IhMIhMKJ7sKzlwMVGNx-CR1Zyy1zOiVodHRwczovLzExNTQ5NjQ0LmZscy5kb3VibGVjbGljay5uZXQvQldDaEFJOE9lczFnWVF3cUs1NVBMQjFyOVRFaTBBZDNYYnJRdjFWeklKYWg3d2FTRmhqcVJFaFBwQU5YWUs3Y1lKZkpNUWtTalVOWFFiSkVpSlNOWGpBMEV6DAgJYggIABAAGAAgAA",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10862944157/?random=185909800&cv=9&fst=1791775224238&num=3&npa=1&label=DeQHCNLClpYYEJ2_7bso&guid=ON&resp=GooglemKTybQhCsO&eid=375603260%2C466465925%2C512247838%2C658953496&u_h=1100&u_w=1600&ig=1&auid=1750846360.1791775222&frm=2&url=https%3A%2F%2F11549644.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCPbvge7Cs5cDFZoRjgUdgCQtrg%3Bsrc%3D11549644%3Btype%3Dgv%3Bcat%3Dallsi0%3Brcb%3D6%3Bord%3D4351569791292%3Bnpa%3D0%3Bauiddc%3D1750846360.1791775222%3Bu4%3D1639798227.1791775223%3Bu8%3Dwww.klaviyo.com%252F%3Buaa%3Dx86%3Buab%3D64%3Buafvl%3DChromium%253B140.0.7339.16%257CNot%25253DA%25253FBrand%253B24.0.0.0%257CHeadlessChrome%253B140.0.7339.16%3Buamb%3D0%3Buam%3D%3Buap%3DmacOS%3Buapv%3D10_15_7%3Buaw%3D0%3Bpscdl%3Dnoapi%3Bfrm%3D0%3B_tu%3DKFA%3Bgtm%3D45fe6a72h1v9181800597z872424615za20gzb72424615zd72424615xeaxf1%3Bgcs%3DG111%3Bgcd%3D13t3t3t3t5l1%3Bdma%3D0%3Bdc_fmt%3D2%3Btag_ex&ref=https%3A%2F%2Fwww.klaviyo.com%2F&top=https%3A%2F%2Fwww.klaviyo.com%2F&capi=1&hn=www.googleadservices.com&uaa=x86&uab=64&uam=&uap=macOS&uapv=10_15_7&uaw=0&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&fmt=3&ct_cookie_present=false&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCPTasQII4uqxAgjo7rECCJLrsQIIyeOxAgiX1LECCMnbsQIIzeaxAgim3bECCLDesQIIgNuxAgjN4bECSixldmVudC1zb3VyY2UsIHRyaWdnZXIsIG5vdC1uYXZpZ2F0aW9uLXNvdXJjZVoDCgEBYgQKAgID&cerd=Cgi5674tnem3OA&fsk=ChAI8Oes1gYQhOTtsLrDkd5MEiwA8j44-4lPP8keQtOtvAvBXw_H9vMmQki7pFRHgKir3rpSXcaQNaEViWE-IBoCgcU&pscrd=IhMIiMuJ7sKzlwMVe8V-CR0oHicrOiVodHRwczovLzExNTQ5NjQ0LmZscy5kb3VibGVjbGljay5uZXQvQldDaEFJOE9lczFnWVF3cUs1NVBMQjFyOVRFaTBBZDNYYnJlTWhJemxGZVdGNmFfdWxvb2tNMDNyMUI5VzZrTHJaS0FrcFVuRlQ5WTV6eVA2VUo5Snc4NUV6DAgJYggIABAAGAAgAA",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://ad.doubleclick.net/activity;dc_pre=CNGHge7Cs5cDFZ4cjgUdbLEnMA;src=17021936;type=pagev0;cat=tmrw-0;rcb=17;ord=3412162048641;npa=0;auiddc=1750846360.1791775222;uaa=x86;uab=64;uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6a72h1v9252933875z872424615za20gzb72424615zd72424615xeaxf1;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=3;tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~121284210~123227969;epver=2;dc_random=1791775224_i5wjrnU2ebOE_wZ_P8OAg-gARIx4dn10ig;~oref=https%3A%2F%2Fwww.klaviyo.com%2F?",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/gmp/conversion/_dc_unique_id=6928259550971347261;_dc_ptd=ChAI8Oes1gYQsr_rieb946MTEh8A9_geMfzax-KMt0DhR1gcHj6KsGPIxRGEYNaMwOna;_dc_time=1791775224;cid=CAQS4QEAQM4h3JDF52nPdI_ceIxiC0nMnp1qEpDhFtkOmFOzjOIa5zXqm-QpcPxM5_ic1Zy5jKqoFwhZ7qxXdiMIWAtbw9Ondh7AbMNU8nbRnv7aaMwT55yjQV4oD1awadeIqTBTy8pfy9QE1lnD1RnAm3ddqIpBKMXM7LYpBmLBKxMBjUGTbE0l4i4UUkrsbjb9iwsPUY7iu4FCvSGC0Z7QX27ADY3QwnVqzAy1b1R-sXr5en1uiKxP_wm4ncLxkciX2JzupQjHFRoGSvfaD_N2KVVlv_x2i3J4F0zry421xVUCKsI;eps=AHas8cDSAKPlW8gauwJqIH_jAl7ef_5px-ksUi68opFdSYSTvtAUv9N3Oz8Xa6ckBsIDejwpi3VI7gdYrQJHKU4nZGNrYtkFH4Ohym_guq12a3UVIw;dc_pre=CNGHge7Cs5cDFZ4cjgUdbLEnMA;src=17021936;type=pagev0;cat=tmrw-0;rcb=17;ord=3412162048641;npa=0;auiddc=1750846360.1791775222;uaa=x86;uab=64;uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6a72h1v9252933875z872424615za20gzb72424615zd72424615xeaxf1;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=3;tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034~121284210~123227969;epver=2;dc_random=1791775224_i5wjrnU2ebOE_wZ_P8OAg-gARIx4dn10ig;~oref=https%3A%2F%2Fwww.klaviyo.com%2F?",
+      "method": "GET",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://www.google.com/pagead/1p-conversion/10862913514/?random=569908558&cv=9&fst=1791775224238&num=1&npa=1&label=eAm7CITglpYYEOrP67so&guid=ON&resp=GooglemKTybQhCsO&eid=375603260%2C466465926%2C512247839%2C658953496&u_h=1100&u_w=1600&ig=1&auid=1750846360.1791775222&frm=2&url=https%3A%2F%2F11549644.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCPbvge7Cs5cDFZoRjgUdgCQtrg%3Bsrc%3D11549644%3Btype%3Dgv%3Bcat%3Dallsi0%3Brcb%3D6%3Bord%3D4351569791292%3Bnpa%3D0%3Bauiddc%3D1750846360.1791775222%3Bu4%3D1639798227.1791775223%3Bu8%3Dwww.klaviyo.com%252F%3Buaa%3Dx86%3Buab%3D64%3Buafvl%3DChromium%253B140.0.7339.16%257CNot%25253DA%25253FBrand%253B24.0.0.0%257CHeadlessChrome%253B140.0.7339.16%3Buamb%3D0%3Buam%3D%3Buap%3DmacOS%3Buapv%3D10_15_7%3Buaw%3D0%3Bpscdl%3Dnoapi%3Bfrm%3D0%3B_tu%3DKFA%3Bgtm%3D45fe6a72h1v9181800597z872424615za20gzb72424615zd72424615xeaxf1%3Bgcs%3DG111%3Bgcd%3D13t3t3t3t5l1%3Bdma%3D0%3Bdc_fmt%3D2%3Btag_ex&ref=https%3A%2F%2Fwww.klaviyo.com%2F&top=https%3A%2F%2Fwww.klaviyo.com%2F&capi=1&hn=www.googleadservices.com&fmt=3&ct_cookie_present=false&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCPTasQII4uqxAgjo7rECCJLrsQIIyeOxAgiX1LECCMnbsQIIzeaxAgim3bECCLDesQIIgNuxAgjN4bECSixldmVudC1zb3VyY2UsIHRyaWdnZXIsIG5vdC1uYXZpZ2F0aW9uLXNvdXJjZVoDCgEBYgQKAgID&cerd=CgzI7L4tmIG_LZ3ptzg&fsk=ChAI8Oes1gYQhOTtsLrDkd5MEiwA8j44--vKz8TudF6oa7HWSyRuJVYbmI2Uaqpd4DvNjNQFhDE_V5dqDMKbChoC6DM&pscrd=IhMI4KuJ7sKzlwMV_eB-CR2g2hOtOiVodHRwczovLzExNTQ5NjQ0LmZscy5kb3VibGVjbGljay5uZXQvQldDaEFJOE9lczFnWVF3cUs1NVBMQjFyOVRFaTBBZDNYYnJXa0VaSVFQYllnazMwMTFqaTVjZ05nc3FFeVdPdmxtY1BUSUdJQkc5aWVxXzVkX2N1ZEN3bWt6DAgJYggIABAAGAAgAA&is_vtc=1&vdi=1&cid=CAQSvgEAQM4h3PcIrKgZtQYs_VOjojqHyl2qzez97x6AgonOplfndQgUMueUPFQucZ2BzAz8FPxreIWmAcK_-Kpqc8janmIAjti-vWDr_njW9c6tc7I11sDqHyTk4-tpMzSGP45LopH0Rcpj5NiVGTLZaIcrTRk5ullPG96hTeDR10TI90aTGYkWglWAzUh_nusNpyqhmZzwSZjRWneGZgSz6EGQ_yzSJwSyFhC3msD5NWKXOtm8mIaEcQqdpStsfnMG&random=2349337626&resp=GooglemKTybQhCsO",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://www.google.com/pagead/1p-conversion/10847908630/?random=624227857&cv=9&fst=1791775224238&num=2&npa=1&label=fm9pCMTYlpYYEJbm17Qo&guid=ON&resp=GooglemKTybQhCsO&eid=375603261%2C466465926%2C512247838%2C658953495&u_h=1100&u_w=1600&ig=1&auid=1750846360.1791775222&frm=2&url=https%3A%2F%2F11549644.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCPbvge7Cs5cDFZoRjgUdgCQtrg%3Bsrc%3D11549644%3Btype%3Dgv%3Bcat%3Dallsi0%3Brcb%3D6%3Bord%3D4351569791292%3Bnpa%3D0%3Bauiddc%3D1750846360.1791775222%3Bu4%3D1639798227.1791775223%3Bu8%3Dwww.klaviyo.com%252F%3Buaa%3Dx86%3Buab%3D64%3Buafvl%3DChromium%253B140.0.7339.16%257CNot%25253DA%25253FBrand%253B24.0.0.0%257CHeadlessChrome%253B140.0.7339.16%3Buamb%3D0%3Buam%3D%3Buap%3DmacOS%3Buapv%3D10_15_7%3Buaw%3D0%3Bpscdl%3Dnoapi%3Bfrm%3D0%3B_tu%3DKFA%3Bgtm%3D45fe6a72h1v9181800597z872424615za20gzb72424615zd72424615xeaxf1%3Bgcs%3DG111%3Bgcd%3D13t3t3t3t5l1%3Bdma%3D0%3Bdc_fmt%3D2%3Btag_ex&ref=https%3A%2F%2Fwww.klaviyo.com%2F&top=https%3A%2F%2Fwww.klaviyo.com%2F&capi=1&hn=www.googleadservices.com&uaa=x86&uab=64&uam=&uap=macOS&uapv=10_15_7&uaw=0&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&fmt=3&ct_cookie_present=false&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCPTasQII4uqxAgjo7rECCJLrsQIIyeOxAgiX1LECCMnbsQIIzeaxAgim3bECCLDesQIIgNuxAgjN4bECSidldmVudC1zb3VyY2UsIHRyaWdnZXI7bmF2aWdhdGlvbi1zb3VyY2VaAwoBAWIECgICAw&cerd=CgyCsL4tueu-LZ3ptzg&fsk=ChAI8Oes1gYQhOTtsLrDkd5MEiwA8j44-5r0WK0xYScTpMSJb8H_XkprtTh5ASZuY0FaHJdpC62K8B-K3QJ1lRoCa9k&pscrd=IhMIhMKJ7sKzlwMVGNx-CR1Zyy1zOiVodHRwczovLzExNTQ5NjQ0LmZscy5kb3VibGVjbGljay5uZXQvQldDaEFJOE9lczFnWVF3cUs1NVBMQjFyOVRFaTBBZDNYYnJRdjFWeklKYWg3d2FTRmhqcVJFaFBwQU5YWUs3Y1lKZkpNUWtTalVOWFFiSkVpSlNOWGpBMEV6DAgJYggIABAAGAAgAA&is_vtc=1&vdi=1&cid=CAQSvgEAQM4h3M4ppIw6C8ahnf-NapKNpofdzIYd1_XVD_lLTxthfL5uHIU5O_Kc3SrBQFyjTpyt_pG_4byBHKK3Nnp7t7CogCUTd3Gp6N2Na_nIC2RP-pSRmqsH7PW1rS9tjhU0MnESR0pDtZ4a1dwnWLSiigk8ZbCmcfBRKAIXANCgwBEi5fxCzyi5_B29Zv03rFz6_2sy6IC4cO4TM8u_4XfK3psNyJ88ONEkqG_PM2ICxwMyjQvGmt9rzaYrvsk0&random=1969417144&resp=GooglemKTybQhCsO",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://www.google.com/pagead/1p-conversion/10862944157/?random=185909800&cv=9&fst=1791775224238&num=3&npa=1&label=DeQHCNLClpYYEJ2_7bso&guid=ON&resp=GooglemKTybQhCsO&eid=375603260%2C466465925%2C512247838%2C658953496&u_h=1100&u_w=1600&ig=1&auid=1750846360.1791775222&frm=2&url=https%3A%2F%2F11549644.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCPbvge7Cs5cDFZoRjgUdgCQtrg%3Bsrc%3D11549644%3Btype%3Dgv%3Bcat%3Dallsi0%3Brcb%3D6%3Bord%3D4351569791292%3Bnpa%3D0%3Bauiddc%3D1750846360.1791775222%3Bu4%3D1639798227.1791775223%3Bu8%3Dwww.klaviyo.com%252F%3Buaa%3Dx86%3Buab%3D64%3Buafvl%3DChromium%253B140.0.7339.16%257CNot%25253DA%25253FBrand%253B24.0.0.0%257CHeadlessChrome%253B140.0.7339.16%3Buamb%3D0%3Buam%3D%3Buap%3DmacOS%3Buapv%3D10_15_7%3Buaw%3D0%3Bpscdl%3Dnoapi%3Bfrm%3D0%3B_tu%3DKFA%3Bgtm%3D45fe6a72h1v9181800597z872424615za20gzb72424615zd72424615xeaxf1%3Bgcs%3DG111%3Bgcd%3D13t3t3t3t5l1%3Bdma%3D0%3Bdc_fmt%3D2%3Btag_ex&ref=https%3A%2F%2Fwww.klaviyo.com%2F&top=https%3A%2F%2Fwww.klaviyo.com%2F&capi=1&hn=www.googleadservices.com&uaa=x86&uab=64&uam=&uap=macOS&uapv=10_15_7&uaw=0&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&fmt=3&ct_cookie_present=false&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCPTasQII4uqxAgjo7rECCJLrsQIIyeOxAgiX1LECCMnbsQIIzeaxAgim3bECCLDesQIIgNuxAgjN4bECSixldmVudC1zb3VyY2UsIHRyaWdnZXIsIG5vdC1uYXZpZ2F0aW9uLXNvdXJjZVoDCgEBYgQKAgID&cerd=Cgi5674tnem3OA&fsk=ChAI8Oes1gYQhOTtsLrDkd5MEiwA8j44-4lPP8keQtOtvAvBXw_H9vMmQki7pFRHgKir3rpSXcaQNaEViWE-IBoCgcU&pscrd=IhMIiMuJ7sKzlwMVe8V-CR0oHicrOiVodHRwczovLzExNTQ5NjQ0LmZscy5kb3VibGVjbGljay5uZXQvQldDaEFJOE9lczFnWVF3cUs1NVBMQjFyOVRFaTBBZDNYYnJlTWhJemxGZVdGNmFfdWxvb2tNMDNyMUI5VzZrTHJaS0FrcFVuRlQ5WTV6eVA2VUo5Snc4NUV6DAgJYggIABAAGAAgAA&is_vtc=1&vdi=1&cid=CAQSvgEAQM4h3IBjW-lN6htbiNbI4U92EAWqRetcBWHPswGGSjpwF_3YZvQ4-2SrxH3B883W1Ccl2Sz-EvqlfRnWF4pessu91b2eOxk9vZcWEos268xupMDoznYgn5-5o97hFydXctjs3epqw9UkLquLwfQ3eEIO_IFzhAZtH5ndNCwGbOIxSKTibMaHPNulX62HD1FafDNrMc87NOX-x4d3jwd027qmCDvZIs4FvK3vRFpkYMTWLQJhx3Qd3iYREjur&random=367695671&resp=GooglemKTybQhCsO",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://bzr.openai.com/v1/sdk/events?pid=4Fck9tkn2c2bPQmYbrXtwQ&st=oaiq-web&sv=0.1.41&t=1791775224538&ec=3",
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://bzr.openai.com/v1/sdk/events?pid=Ukx3JFA5AFkH8YF6xof7Wi&st=oaiq-web&sv=0.1.41&t=1791775224543&ec=3",
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://bzr.openai.com/v1/sdk/events?pid=JV5zvJRNrdSE4ucpAtPChr&st=oaiq-web&sv=0.1.41&t=1791775224546&ec=3",
+      "method": "POST",
+      "resourceType": "fetch"
+    },
+    {
+      "url": "https://b.6sc.co/v1/beacon/img.gif?token=95734a6d9f0f80469ef8fc1221f9c4a5&svisitor=e7263e1703730000f751cc6a9002000084262500&visitor=51ac8b9c-4f29-4460-8465-9a4dfc466160&session=5c012ca5-7e43-4c96-8e63-18101e6e6c43&event=active_time_track&q=%7B%22currentTime%22%3A%22Mon%2C%2012%20Oct%202026%2003%3A20%3A24%20GMT%22%2C%22lastTrackTime%22%3A%22Mon%2C%2012%20Oct%202026%2003%3A20%3A23%20GMT%22%2C%22timeSpent%22%3A%221003%22%2C%22totalTimeSpent%22%3A%221003%22%7D&isIframe=false&m=%7B%22description%22%3A%22Klaviyo%20unifies%20AI-powered%20email%20marketing%20and%20SMS%20to%20drive%20growth%2C%20retention%2C%20and%20measurable%20results.%20Build%20personalized%2C%20omnichannel%20experiences%20across%20WhatsApp%2C%20ecommerce%2C%20and%20more%20with%20K%3AAI%20Agents.%22%2C%22keywords%22%3A%22%22%2C%22title%22%3A%22Klaviyo%3A%20AI%20Email%20Marketing%20%26amp%3B%20SMS%20%7C%20B2C%20CRM%22%7D&cb=&r=&thirdParty=%7B%7D&v2=1&pageURL=https%3A%2F%2Fwww.klaviyo.com%2F&pageViewId=4e671247-326e-462c-8e79-4ae121c50ddc&an_uid=7660880096890107203&webTagId=2a417af6-5a13-4ed8-915d-3acba087d374&v=1.1.39",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://bite.australiarevival.com/mon",
+      "method": "POST",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://bite.australiarevival.com/mon",
+      "method": "POST",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://b.6sc.co/v1/beacon/img.gif?token=95734a6d9f0f80469ef8fc1221f9c4a5&svisitor=e7263e1703730000f751cc6a9002000084262500&visitor=51ac8b9c-4f29-4460-8465-9a4dfc466160&session=5c012ca5-7e43-4c96-8e63-18101e6e6c43&event=active_time_track&q=%7B%22currentTime%22%3A%22Mon%2C%2012%20Oct%202026%2003%3A20%3A25%20GMT%22%2C%22lastTrackTime%22%3A%22Mon%2C%2012%20Oct%202026%2003%3A20%3A24%20GMT%22%2C%22timeSpent%22%3A%221002%22%2C%22totalTimeSpent%22%3A%222005%22%7D&isIframe=false&m=%7B%22description%22%3A%22Klaviyo%20unifies%20AI-powered%20email%20marketing%20and%20SMS%20to%20drive%20growth%2C%20retention%2C%20and%20measurable%20results.%20Build%20personalized%2C%20omnichannel%20experiences%20across%20WhatsApp%2C%20ecommerce%2C%20and%20more%20with%20K%3AAI%20Agents.%22%2C%22keywords%22%3A%22%22%2C%22title%22%3A%22Klaviyo%3A%20AI%20Email%20Marketing%20%26amp%3B%20SMS%20%7C%20B2C%20CRM%22%7D&cb=&r=&thirdParty=%7B%7D&v2=1&pageURL=https%3A%2F%2Fwww.klaviyo.com%2F&pageViewId=4e671247-326e-462c-8e79-4ae121c50ddc&an_uid=7660880096890107203&webTagId=2a417af6-5a13-4ed8-915d-3acba087d374&v=1.1.39",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://b.6sc.co/v1/beacon/img.gif?token=95734a6d9f0f80469ef8fc1221f9c4a5&svisitor=e7263e1703730000f751cc6a9002000084262500&visitor=51ac8b9c-4f29-4460-8465-9a4dfc466160&session=5c012ca5-7e43-4c96-8e63-18101e6e6c43&event=ni%3AmapCookie&q=%7B%22thirdPartyValues%22%3A%22%5B%7B%5C%22map%5C%22%3A%5C%22Hubspot%5C%22%2C%5C%22cookieName%5C%22%3A%5C%22hubspotutk%5C%22%2C%5C%22cookieValue%5C%22%3A%5C%22c5d1e0461acfacd18b6a2d2df9c973ce%5C%22%7D%5D%22%7D&isIframe=false&m=%7B%22description%22%3A%22Klaviyo%20unifies%20AI-powered%20email%20marketing%20and%20SMS%20to%20drive%20growth%2C%20retention%2C%20and%20measurable%20results.%20Build%20personalized%2C%20omnichannel%20experiences%20across%20WhatsApp%2C%20ecommerce%2C%20and%20more%20with%20K%3AAI%20Agents.%22%2C%22keywords%22%3A%22%22%2C%22title%22%3A%22Klaviyo%3A%20AI%20Email%20Marketing%20%26amp%3B%20SMS%20%7C%20B2C%20CRM%22%7D&cb=&r=&thirdParty=%7B%7D&v2=1&pageURL=https%3A%2F%2Fwww.klaviyo.com%2F&pageViewId=4e671247-326e-462c-8e79-4ae121c50ddc&an_uid=7660880096890107203&webTagId=2a417af6-5a13-4ed8-915d-3acba087d374&v=1.1.39",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://b.6sc.co/v1/beacon/img.gif?token=95734a6d9f0f80469ef8fc1221f9c4a5&svisitor=e7263e1703730000f751cc6a9002000084262500&visitor=51ac8b9c-4f29-4460-8465-9a4dfc466160&session=5c012ca5-7e43-4c96-8e63-18101e6e6c43&event=active_time_track&q=%7B%22currentTime%22%3A%22Mon%2C%2012%20Oct%202026%2003%3A20%3A26%20GMT%22%2C%22lastTrackTime%22%3A%22Mon%2C%2012%20Oct%202026%2003%3A20%3A25%20GMT%22%2C%22timeSpent%22%3A%221003%22%2C%22totalTimeSpent%22%3A%223008%22%7D&isIframe=false&m=%7B%22description%22%3A%22Klaviyo%20unifies%20AI-powered%20email%20marketing%20and%20SMS%20to%20drive%20growth%2C%20retention%2C%20and%20measurable%20results.%20Build%20personalized%2C%20omnichannel%20experiences%20across%20WhatsApp%2C%20ecommerce%2C%20and%20more%20with%20K%3AAI%20Agents.%22%2C%22keywords%22%3A%22%22%2C%22title%22%3A%22Klaviyo%3A%20AI%20Email%20Marketing%20%26amp%3B%20SMS%20%7C%20B2C%20CRM%22%7D&cb=&r=&thirdParty=%7B%7D&v2=1&pageURL=https%3A%2F%2Fwww.klaviyo.com%2F&pageViewId=4e671247-326e-462c-8e79-4ae121c50ddc&an_uid=7660880096890107203&webTagId=2a417af6-5a13-4ed8-915d-3acba087d374&v=1.1.39",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://bite.australiarevival.com/mon",
+      "method": "POST",
+      "resourceType": "xhr"
+    },
+    {
+      "url": "https://b.6sc.co/v1/beacon/img.gif?token=95734a6d9f0f80469ef8fc1221f9c4a5&svisitor=e7263e1703730000f751cc6a9002000084262500&visitor=51ac8b9c-4f29-4460-8465-9a4dfc466160&session=5c012ca5-7e43-4c96-8e63-18101e6e6c43&event=active_time_track&q=%7B%22currentTime%22%3A%22Mon%2C%2012%20Oct%202026%2003%3A20%3A27%20GMT%22%2C%22lastTrackTime%22%3A%22Mon%2C%2012%20Oct%202026%2003%3A20%3A26%20GMT%22%2C%22timeSpent%22%3A%221004%22%2C%22totalTimeSpent%22%3A%224012%22%7D&isIframe=false&m=%7B%22description%22%3A%22Klaviyo%20unifies%20AI-powered%20email%20marketing%20and%20SMS%20to%20drive%20growth%2C%20retention%2C%20and%20measurable%20results.%20Build%20personalized%2C%20omnichannel%20experiences%20across%20WhatsApp%2C%20ecommerce%2C%20and%20more%20with%20K%3AAI%20Agents.%22%2C%22keywords%22%3A%22%22%2C%22title%22%3A%22Klaviyo%3A%20AI%20Email%20Marketing%20%26amp%3B%20SMS%20%7C%20B2C%20CRM%22%7D&cb=&r=&thirdParty=%7B%7D&v2=1&pageURL=https%3A%2F%2Fwww.klaviyo.com%2F&pageViewId=4e671247-326e-462c-8e79-4ae121c50ddc&an_uid=7660880096890107203&webTagId=2a417af6-5a13-4ed8-915d-3acba087d374&v=1.1.39",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://b.6sc.co/v1/beacon/img.gif?token=95734a6d9f0f80469ef8fc1221f9c4a5&svisitor=e7263e1703730000f751cc6a9002000084262500&visitor=51ac8b9c-4f29-4460-8465-9a4dfc466160&session=5c012ca5-7e43-4c96-8e63-18101e6e6c43&event=active_time_track&q=%7B%22currentTime%22%3A%22Mon%2C%2012%20Oct%202026%2003%3A20%3A28%20GMT%22%2C%22lastTrackTime%22%3A%22Mon%2C%2012%20Oct%202026%2003%3A20%3A27%20GMT%22%2C%22timeSpent%22%3A%221003%22%2C%22totalTimeSpent%22%3A%225015%22%7D&isIframe=false&m=%7B%22description%22%3A%22Klaviyo%20unifies%20AI-powered%20email%20marketing%20and%20SMS%20to%20drive%20growth%2C%20retention%2C%20and%20measurable%20results.%20Build%20personalized%2C%20omnichannel%20experiences%20across%20WhatsApp%2C%20ecommerce%2C%20and%20more%20with%20K%3AAI%20Agents.%22%2C%22keywords%22%3A%22%22%2C%22title%22%3A%22Klaviyo%3A%20AI%20Email%20Marketing%20%26amp%3B%20SMS%20%7C%20B2C%20CRM%22%7D&cb=&r=&thirdParty=%7B%7D&v2=1&pageURL=https%3A%2F%2Fwww.klaviyo.com%2F&pageViewId=4e671247-326e-462c-8e79-4ae121c50ddc&an_uid=7660880096890107203&webTagId=2a417af6-5a13-4ed8-915d-3acba087d374&v=1.1.39",
+      "method": "GET",
+      "resourceType": "image"
+    },
+    {
+      "url": "https://b.6sc.co/v1/beacon/img.gif?token=95734a6d9f0f80469ef8fc1221f9c4a5&svisitor=e7263e1703730000f751cc6a9002000084262500&visitor=51ac8b9c-4f29-4460-8465-9a4dfc466160&session=5c012ca5-7e43-4c96-8e63-18101e6e6c43&event=active_time_track&q=%7B%22currentTime%22%3A%22Mon%2C%2012%20Oct%202026%2003%3A20%3A29%20GMT%22%2C%22lastTrackTime%22%3A%22Mon%2C%2012%20Oct%202026%2003%3A20%3A28%20GMT%22%2C%22timeSpent%22%3A%221004%22%2C%22totalTimeSpent%22%3A%226019%22%7D&isIframe=false&m=%7B%22description%22%3A%22Klaviyo%20unifies%20AI-powered%20email%20marketing%20and%20SMS%20to%20drive%20growth%2C%20retention%2C%20and%20measurable%20results.%20Build%20personalized%2C%20omnichannel%20experiences%20across%20WhatsApp%2C%20ecommerce%2C%20and%20more%20with%20K%3AAI%20Agents.%22%2C%22keywords%22%3A%22%22%2C%22title%22%3A%22Klaviyo%3A%20AI%20Email%20Marketing%20%26amp%3B%20SMS%20%7C%20B2C%20CRM%22%7D&cb=&r=&thirdParty=%7B%7D&v2=1&pageURL=https%3A%2F%2Fwww.klaviyo.com%2F&pageViewId=4e671247-326e-462c-8e79-4ae121c50ddc&an_uid=7660880096890107203&webTagId=2a417af6-5a13-4ed8-915d-3acba087d374&v=1.1.39",
+      "method": "GET",
+      "resourceType": "image"
+    }
+  ]
+}
