@@ -110,17 +110,23 @@ Several areas remain private: lead-scoring methodology, model refresh cadence, i
 
 ## Evidence
 
-### Browser capture 1
+### Klaviyo homepage
 
-![Initial Klaviyo network inspection](assets/klaviyo-network-before-reload.jpg)
+![Klaviyo homepage capture](assets/evidence/klaviyo-homepage.png)
 
-*Initial Chrome DevTools inspection of Klaviyo.com.*
+*Fresh browser capture of Klaviyo.com used for the outside-in audit.*
 
-### Browser capture 2
+### Network summary
 
-![Klaviyo network capture after reload](assets/klaviyo-network-full-capture.jpg)
+![Klaviyo network summary](assets/evidence/klaviyo-network-summary.png)
 
-*Full network capture after reloading Klaviyo.com with DevTools open.*
+*High-resolution summary of marketing, analytics, and data technologies observed during the browser session.*
+
+### Network detail
+
+![Klaviyo network request detail](assets/evidence/klaviyo-network-detail.png)
+
+*Sample request-level evidence captured from the same session. The underlying request log is stored in `evidence/network-requests.json`.*
 
 ### Source links
 
