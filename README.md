@@ -178,12 +178,3 @@ ChatGPT, web research, Chrome DevTools, HAR export, GitHub.
 **Iterations**  
 9 major iterations.
 
-### Weekly reflection
-
-One place I overrode AI was in the first pass at Klaviyo's acquisition and invisible AI layers. The model treated the presence of tools such as 6sense, Optimizely, Google Ads, and other tracking infrastructure as fairly strong evidence that Klaviyo was actively using their AI capabilities. I rejected that because an installed script only proves that the technology is present or firing. It does not show whether predictive scoring, automated bidding, or model-driven personalization is actually enabled. I exported a HAR file from Klaviyo.com, checked which requests actually fired, and separated three levels of evidence: observed network activity, documented model behavior, and inference. That led me to lower confidence on paid-media optimization and to classify some lifecycle and experimentation workflows as rules-based automation rather than AI.
-
-AI was useful for combining job postings, vendor case studies, public documentation, and browser evidence into one four-layer map while keeping the same classification fields across each row. Its biggest error was initially mixing Klaviyo's AI product capabilities with the AI Klaviyo uses in its own marketing. I corrected that and kept product-side AI only as supporting context.
-
-### AI self-review
-
-The self-review led me to remove overconfident claims and lower confidence scores where the evidence showed infrastructure but not model use.
