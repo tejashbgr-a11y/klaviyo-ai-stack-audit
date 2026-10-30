@@ -6,6 +6,8 @@
 **Moment:** Composer’s availability to Klaviyo customers, the announcement used in my October 25 campaign.  
 **Author:** Tejash Bagri
 
+[Brand guide](#brand-guide)
+
 ## Campaign idea
 
 Start with a question a marketer needs to answer. Show how customer data can inform a campaign draft, with the marketer reviewing the work before it goes live. The customer email explains a use inside Klaviyo. The prospect ad introduces the value through a repeat-purchase question.
@@ -94,37 +96,63 @@ The guide below is the one used for the original campaign. Its public-source obs
 
 Klaviyo Brand Guide
 
-Company: KlaviyoMoment: Composer, Klaviyo’s AI marketing agent, is available to every Klaviyo customer.
+Company: Klaviyo
+
+Moment: Composer, Klaviyo’s AI marketing agent, is available to every Klaviyo customer.
 
 Student work for MKTG 579 at UW Foster. Created for a class. Not affiliated with or endorsed by Klaviyo.
 
 Built from: Klaviyo’s public site, Composer pages, five recent public social posts, and two public marketing emails. Box 4 uses public Klaviyo claims; unsupported claims sit in Box 5.
 
-1. WHO THEY ARE
+### Box 1: Who They Are
 
 Klaviyo is the AI-first CRM built for B2C brands. It combines customer data, marketing automation, analytics, and service in one platform.Its current positioning centers on using real-time customer data and AI to build stronger customer relationships and growth.
 
-2. WHO THEY ARE TALKING TO
+### Box 2: Who They Are Talking To
 
 B2C marketers, CRM and lifecycle teams, ecommerce operators, and consumer brands that need to turn customer data into campaigns, service, and measurable growth.
 
-3. HOW THEY SOUND
+### Box 3: How They Sound
 
-Direct. Practical. Energetic.They do:• Lead with the announcement, task, or outcome.• Use short lines, active verbs, numbers, and specific examples.• Use light social energy when appropriate.They don’t:• Spend long paragraphs setting up the point.• Explain AI only with abstract language.• Make unsupported superlatives or performance promises.
+Direct. Practical. Energetic.
 
-4. FACTS THEY ARE ALLOWED TO CLAIM
+They do:
+- Lead with the announcement, task, or outcome.
+- Use short lines, active verbs, numbers, and specific examples.
+- Use light social energy when appropriate.
 
-1. Klaviyo is an AI-first / autonomous B2C CRM.2. 205,000+ brands use Klaviyo.3. Composer is Klaviyo’s AI marketing agent.4. Composer is available to every Klaviyo customer.5. Composer can analyze Klaviyo data and provide grounded answers.6. Composer can audit marketing work and prepare campaign, flow, segment, and message drafts for review.7. Composer can run recurring or scheduled tasks.8. Skills let teams save repeatable processes.
+They don’t:
+- Spend long paragraphs setting up the point.
+- Explain AI only with abstract language.
+- Make unsupported superlatives or performance promises.
 
-5. THINGS THEY ARE NOT ALLOWED TO CLAIM
+### Box 4: Facts They Are Allowed To Claim
 
-• Composer guarantees revenue growth, conversion lift, or perfect accuracy.• Composer automatically publishes or sends all customer-facing work.• Composer replaces marketer judgment or removes review.• Every recommendation is automatically applied.
+1. Klaviyo is an AI-first / autonomous B2C CRM.
+2. 205,000+ brands use Klaviyo.
+3. Composer is Klaviyo’s AI marketing agent.
+4. Composer is available to every Klaviyo customer.
+5. Composer can analyze Klaviyo data and provide grounded answers.
+6. Composer can audit marketing work and prepare campaign, flow, segment, and message drafts for review.
+7. Composer can run recurring or scheduled tasks.
+8. Skills let teams save repeatable processes.
 
-6. THINGS THIS BRAND NEVER DOES
+### Box 5: Things They Are Not Allowed To Claim
 
-Working rules from the reviewed material:• Does not tell customers to skip review of customer-facing AI output.• Does not use fake scarcity or countdown language in the product-launch material reviewed.• Does not explain a product only through technical AI terminology; the task and outcome come first.
 
-7. PICTURES
+- Composer guarantees revenue growth, conversion lift, or perfect accuracy.
+- Composer automatically publishes or sends all customer-facing work.
+- Composer replaces marketer judgment or removes review.
+- Every recommendation is automatically applied.
+
+### Box 6: Things This Brand Never Does
+
+Working rules from the reviewed material:
+- Does not tell customers to skip review of customer-facing AI output.
+- Does not use fake scarcity or countdown language in the product-launch material reviewed.
+- Does not explain a product only through technical AI terminology; the task and outcome come first.
+
+### Box 7: Pictures
 
 High-contrast black, white, and warm cream with restrained purple accents. Large serif headlines sit beside clean sans-serif product UI. Visuals focus on dashboards, campaign builders, data panels, and prompt interfaces. The look is editorial, minimal, and product-led.
 
@@ -158,7 +186,9 @@ Sample limits: The social and email voice is based on public material, not an in
 
 The following is the prompt record preserved in the original campaign document. It uses `[BRAND GUIDE]` to mark the full guide that the document says was pasted during generation. That placeholder is part of the retained record. I have included the full guide above so the context can be inspected. I have not represented a reconstructed prompt as a verbatim historical transcript.
 
-```text
+<details>
+<summary>Original saved prompts</summary>
+
 Every prompt below included the full brand guide at [BRAND GUIDE]. The guide was pasted in full during generation; it is not repeated four times here.
 
 Caption prompt
@@ -176,7 +206,8 @@ Context: I’m writing a paid-social launch ad for Klaviyo Composer. Composer is
 Image prompt
 
 Context: Klaviyo is promoting Composer, its AI marketing agent, now available to every Klaviyo customer. The image will run with a paid-social ad. My brand guide is below. Follow Box 7 for the visual system and Boxes 5 and 6 for claims and behavior. [BRAND GUIDE]Role: You are an art director on Klaviyo’s in-house brand team.Ask: Create one square product-marketing image showing an abstract AI marketing workspace centered on a prompt interface, surrounded by connected panels for understanding data, analyzing performance, creating a campaign, and refining the work.Format: Square social image. One scene. No person, no identifiable face, no photorealistic human. Keep interface copy short and readable.Tone and limits: High contrast, editorial, modern, product-led. Black, cream, white, with restrained purple accents. No fake awards, customer logos, testimonials, performance metrics, or unsupported claims. Do not add any factual text that is not in Box 4.
-```
+
+</details>
 
 ## Revision instructions
 
